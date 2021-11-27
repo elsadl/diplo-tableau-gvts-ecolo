@@ -1,0 +1,192 @@
+:root {
+    font-family: 'Walbaumgrot';
+    --un: #e0f1fb;
+    --deux: #bedaa5;
+    --trois: #84bd56;
+    --quatre: #008d53;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+p, h1 {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 1.75em;
+    font-weight: 600;
+    margin-bottom: 0.4em;
+}
+
+.exposant {
+    vertical-align: top;
+    font-size: 0.6em;
+}
+
+#tableau {
+    width: min-content;
+    display: grid;
+    grid-template-columns: repeat(33, 1fr);
+    align-items: center;
+}
+
+.credits, .footnotes {
+    grid-column: 1 / -1;
+    text-align: right;
+    font-size: 0.9em;
+    font-weight: 300;
+    margin-top: 0.4em;
+}
+
+.footnotes {
+    line-height: 0.9em;
+}
+
+.legende {
+    grid-column: 2 / -1;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.4em;
+}
+
+.leg-el {
+    display: flex;
+    align-items: flex-end;
+}
+
+.leg-label {
+    font-weight: 500;
+    margin-left: 0.3em;
+}
+
+.label-country {
+    font-variant: small-caps;
+    font-weight: 500;
+    text-align: right;
+    margin-right: 0.4em;
+    line-height: 1em;
+}
+
+.label-year {
+    font-size: 0.8em;
+    margin-bottom: 0.2em;
+    text-align: center;
+    max-width: 28px;
+    letter-spacing: -0.5px;
+}
+
+.label-year.bold {
+    font-weight: 500;
+}
+
+.case {
+    width: 30px;
+    height: 14px;
+    border: 1px solid black;
+    margin-bottom: 3px;
+}
+
+.case+.case {
+    margin-left: 2px;
+}
+
+.case.null {
+    border: none;
+}
+
+.case.un, .notes.un {
+    background-color: var(--un);
+    --color: var(--un);
+}
+
+.case.deux, .notes.deux {
+    background-color: var(--deux);
+    --color: var(--deux);
+}
+
+.case.trois, .notes.trois {
+    background-color: var(--trois);
+    --color: var(--trois);
+}
+
+.case.quatre, .notes.quatre {
+    background-color: var(--quatre);
+    --color: var(--quatre);
+}
+
+.case .notes {
+    cursor: pointer;
+    height: 100%;
+    width: 100%;
+}
+
+.case .notes.null, .case .notes.un {
+    cursor: default;
+}
+
+.case .notes p {
+    position: absolute;
+    max-width: 360px;
+    width: max-content;
+    transform: translate(2.6em, -0.6em);
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 200ms;
+    background-color: white !important;
+    border: 1px solid black;
+    padding: 0.5em;
+    font-size: 0.9em;
+    z-index: 100;
+}
+
+.case .notes:hover>p {
+    opacity: 1;
+}
+
+.case.transition {
+    display: flex;
+}
+
+.case.split {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    overflow: hidden;
+}
+
+.case.split .notes {
+    grid-column: 1 / 1;
+    grid-row: 1 / 1;
+}
+
+.case.split .notes:first-child {
+    width: 100%;
+    height: 100%;
+    transform: translateX(-16px) skew(-68deg);
+    border-right: 2px solid;
+}
+
+.case.transition .notes:first-child:hover+.notes p.notes1,
+.case.split .notes:first-child:hover+.notes p.notes1 {
+    opacity: 1;
+}
+
+.case.transition .notes:last-child:hover p.notes1,
+.case.split .notes:last-child:hover p.notes1 {
+    opacity: 0;
+}
+
+.case.transition .notes {
+    width: 50%;
+}
+
+.case.transition .notes p {
+    transform: translate(1.6em, -0.6em);
+}
+
+.case.transition .notes+.notes {
+    border-left: 1px solid black;
+}

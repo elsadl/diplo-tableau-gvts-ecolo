@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "Walbaumgrot";
+    font-weight: 100;
+    src: url("/fonts/walbaumgrotesklight.woff2") format("woff2"),
+    url("/fonts/walbaumgrotesklight.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Walbaumgrot";
+    font-weight: 200;
+    src: url("/fonts/walbaumgroteskbook.woff2") format("woff2"),
+    url("/fonts/walbaumgroteskbook.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Walbaumgrot";
+    font-weight: 400;
+    src: url("/fonts/walbaumgrotesktext.woff2") format("woff2"),
+    url("/fonts/walbaumgrotesktext.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Walbaumgrot";
+    font-weight: 500;
+    src: url("/fonts/walbaumgroteskbookbold.woff2") format("woff2"),
+    url("/fonts/walbaumgroteskbookbold.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Walbaumgrot";
+    font-weight: 600;
+    src: url("/fonts/walbaumgrotesktextbold.woff2") format("woff2"),
+    url("/fonts/walbaumgrotesktextbold.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Walbaumgrot";
+    font-weight: 800;
+    src: url("/fonts/walbaumgroteskblack.woff2") format("woff2"),
+    url("/fonts/walbaumgroteskblack.woff") format("woff");
+  }
+  
