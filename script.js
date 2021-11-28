@@ -1,4 +1,4 @@
-import { mobile } from "./utils.js";
+import { checkMobile } from "./utils.js";
 
 import { data } from "./data.js";
 import { dictCountries } from "./countries.js";
@@ -15,6 +15,7 @@ let tableauWidth = tableau.getBoundingClientRect().width + 20;
 
 const init = () => {
   createTableau();
+  const mobile = checkMobile();
   if (!mobile) window.onresize = scaleTableau;
 };
 

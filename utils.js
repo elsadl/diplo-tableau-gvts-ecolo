@@ -1,4 +1,4 @@
-export const mobile = () => {
+export const checkMobile = () => {
   let check = false;
   (function (a) {
     if (
