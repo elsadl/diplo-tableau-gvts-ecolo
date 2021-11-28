@@ -11,7 +11,7 @@ const statutClasses = ["null", "un", "deux", "trois", "quatre"];
 const tableau = document.getElementById("tableau");
 
 let scaleFactor = 1;
-let tableauWidth = tableau.getBoundingClientRect().width + 20;
+let tableauWidth;
 
 const init = () => {
   createTableau();
