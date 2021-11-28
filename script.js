@@ -26,9 +26,8 @@ const createTableau = () => {
   addNotes();
   tableau.style.display = "grid";
   fixPositionTooltips();
-  tableauWidth = tableau.getBoundingClientRect().width + 20;
+  tableauWidth = tableau.getBoundingClientRect().width + 40;
   scaleTableau();
-  if (mobile) fixHoverOnMobile();
 };
 
 const fillTableau = () => {
@@ -168,17 +167,6 @@ const fixPositionTooltips = () => {
       translateY = "calc(-100% + 1.6em)";
     }
     el.style.transform = `translate(${translateX}, ${translateY})`;
-  });
-};
-
-const fixHoverOnMobile = () => {
-  Array.from(document.querySelectorAll(".notes")).forEach((el) => {
-    el.addEventListener("click", () => {
-      Array.from(document.querySelectorAll(".notes")).forEach((note) => {
-        note.classList.remove("hovered");
-      });
-      el.classList.add("hovered");
-    });
   });
 };
 
