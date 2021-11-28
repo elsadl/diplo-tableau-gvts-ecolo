@@ -22,10 +22,10 @@ p {
 
 #tableau {
     width: min-content;
-    display: grid;
     grid-template-columns: repeat(33, 1fr);
     align-items: center;
     transform-origin: top left;
+    display: none;
 }
 
 p.title {
