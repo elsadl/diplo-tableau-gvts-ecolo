@@ -135,6 +135,7 @@ p.title {
     width: max-content;
     transform: translate(2.6em, -0.6em);
     pointer-events: none;
+    touch-action: none;
     opacity: 0;
     transition: opacity 200ms;
     background-color: white !important;
