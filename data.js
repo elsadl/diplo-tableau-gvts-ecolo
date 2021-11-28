@@ -2,7 +2,7 @@ export const data = {
     1990: {
         "FRA": {
             statut: 3,
-            notes: "Ministre délégué à l'Environnement dès 1990, Brice Lalonde reprend le portefeuille titulaire l'année suivante, dans le gouvernement d'Édith Cresson. Membre du Mouvement d'écologie politique, il le quitte pour fonder Génération Écologie en 1990. Le nouveau parti rejoint donc la coalition formée par le Mouvement des Radicaux de Gauche (MRG) et le Parti Socialiste (PS)."
+            notes: `Ministre délégué à l'Environnement dès 1990, Brice Lalonde reprend le portefeuille titulaire l'année suivante, dans le gouvernement d'Édith Cresson. Membre du Mouvement d'écologie politique, il le quitte pour fonder Génération Écologie en 1990. Le nouveau parti rejoint donc la coalition formée par le Mouvement des Radicaux de Gauche (MRG) et le Parti Socialiste (PS).`
         },
         "LVA": {
             statut: 0,
@@ -76,7 +76,7 @@ export const data = {
     1991: {
         "FRA": {
             statut: 3,
-            notes: "Ministre délégué à l'Environnement dès 1990, Brice Lalonde reprend le portefeuille titulaire l'année suivante, dans le gouvernement d'Édith Cresson. Membre du Mouvement d'écologie politique, il le quitte pour fonder Génération Écologie en 1990. Le nouveau parti rejoint donc la coalition formée par le Mouvement des Radicaux de Gauche (MRG) et le Parti Socialiste (PS)."
+            notes: `Ministre délégué à l'Environnement dès 1990, Brice Lalonde reprend le portefeuille titulaire l'année suivante, dans le gouvernement d'Édith Cresson. Membre du Mouvement d'écologie politique, il le quitte pour fonder Génération Écologie en 1990. Le nouveau parti rejoint donc la coalition formée par le Mouvement des Radicaux de Gauche (MRG) et le Parti Socialiste (PS).`
         },
         "LVA": {
             statut: 1,
@@ -150,7 +150,7 @@ export const data = {
     1992: {
         "FRA": {
             statut: 3,
-            notes: "Ministre délégué à l'Environnement dès 1990, Brice Lalonde reprend le portefeuille titulaire l'année suivante, dans le gouvernement d'Édith Cresson. Membre du Mouvement d'écologie politique, il le quitte pour fonder Génération Écologie en 1990. Le nouveau parti rejoint donc la coalition formée par le Mouvement des Radicaux de Gauche (MRG) et le Parti Socialiste (PS)."
+            notes: `Ministre délégué à l'Environnement dès 1990, Brice Lalonde reprend le portefeuille titulaire l'année suivante, dans le gouvernement d'Édith Cresson. Membre du Mouvement d'écologie politique, il le quitte pour fonder Génération Écologie en 1990. Le nouveau parti rejoint donc la coalition formée par le Mouvement des Radicaux de Gauche (MRG) et le Parti Socialiste (PS).`
         },
         "LVA": {
             statut: 1,
@@ -228,7 +228,7 @@ export const data = {
         },
         "LVA": {
             statut: 3,
-            notes: "Alors que la Lettonie ne récupère intégralement son indépendance de Moscou qu'à l'été 1991, dès 1993, le parti vert letton (LZP) est au gouvernement.C'est sous le premier ministre  Valdis Birkavs, du parti communiste, qu'Indulis Emsis est nommé ministre d'État à l'Environnement. Le futur premier ministre conserve son portefeuille dans cinq gouvernements successifs, jusqu'en 1998. D'autres membres du parti écologiste y occuperont également des postes."
+            notes: `Alors que la Lettonie ne récupère intégralement son indépendance de Moscou qu'à l'été 1991, dès 1993, le parti vert letton (LZP) est au gouvernement.C'est sous le premier ministre  Valdis Birkavs, du parti communiste, qu'Indulis Emsis est nommé ministre d'État à l'Environnement. Le futur premier ministre conserve son portefeuille dans cinq gouvernements successifs, jusqu'en 1998. D'autres membres du parti écologiste y occuperont également des postes.`
         },
         "FIN": {
             statut: 1,
@@ -302,7 +302,7 @@ export const data = {
         },
         "LVA": {
             statut: 3,
-            notes: "Alors que la Lettonie ne récupère intégralement son indépendance de Moscou qu'à l'été 1991, dès 1993, le parti vert letton (LZP) est au gouvernement.C'est sous le premier ministre  Valdis Birkavs, du parti communiste, qu'Indulis Emsis est nommé ministre d'État à l'Environnement. Le futur premier ministre conserve son portefeuille dans cinq gouvernements successifs, jusqu'en 1998. D'autres membres du parti écologiste y occuperont également des postes."
+            notes: `Alors que la Lettonie ne récupère intégralement son indépendance de Moscou qu'à l'été 1991, dès 1993, le parti vert letton (LZP) est au gouvernement.C'est sous le premier ministre  Valdis Birkavs, du parti communiste, qu'Indulis Emsis est nommé ministre d'État à l'Environnement. Le futur premier ministre conserve son portefeuille dans cinq gouvernements successifs, jusqu'en 1998. D'autres membres du parti écologiste y occuperont également des postes.`
         },
         "FIN": {
             statut: 1,
@@ -372,11 +372,11 @@ export const data = {
     1995: {
         "FRA": {
             statut: 3,
-            notes: "C'est également sous l'étiquette de Génération Écologie que Corinne Lepage, actuelle co-présidente de Cap Écologie, devient ministre de l'Environnement dans le gouvernement d'Alain Juppé."
+            notes: `C'est également sous l'étiquette de Génération Écologie que Corinne Lepage, actuelle co-présidente de Cap Écologie, devient ministre de l'Environnement dans le gouvernement d'Alain Juppé.`
         },
         "LVA": {
             statut: 3,
-            notes: "Alors que la Lettonie ne récupère intégralement son indépendance de Moscou qu'à l'été 1991, dès 1993, le parti vert letton (LZP) est au gouvernement.C'est sous le premier ministre  Valdis Birkavs, du parti communiste, qu'Indulis Emsis est nommé ministre d'État à l'Environnement. Le futur premier ministre conserve son portefeuille dans cinq gouvernements successifs, jusqu'en 1998. D'autres membres du parti écologiste y occuperont également des postes."
+            notes: `Alors que la Lettonie ne récupère intégralement son indépendance de Moscou qu'à l'été 1991, dès 1993, le parti vert letton (LZP) est au gouvernement.C'est sous le premier ministre  Valdis Birkavs, du parti communiste, qu'Indulis Emsis est nommé ministre d'État à l'Environnement. Le futur premier ministre conserve son portefeuille dans cinq gouvernements successifs, jusqu'en 1998. D'autres membres du parti écologiste y occuperont également des postes.`
         },
         "FIN": {
             statut: 3,
@@ -446,11 +446,11 @@ export const data = {
     1996: {
         "FRA": {
             statut: 3,
-            notes: "C'est également sous l'étiquette de Génération Écologie que Corinne Lepage, actuelle co-présidente de Cap Écologie, devient ministre de l'Environnement dans le gouvernement d'Alain Juppé."
+            notes: `C'est également sous l'étiquette de Génération Écologie que Corinne Lepage, actuelle co-présidente de Cap Écologie, devient ministre de l'Environnement dans le gouvernement d'Alain Juppé.`
         },
         "LVA": {
             statut: 3,
-            notes: "Alors que la Lettonie ne récupère intégralement son indépendance de Moscou qu'à l'été 1991, dès 1993, le parti vert letton (LZP) est au gouvernement.C'est sous le premier ministre  Valdis Birkavs, du parti communiste, qu'Indulis Emsis est nommé ministre d'État à l'Environnement. Le futur premier ministre conserve son portefeuille dans cinq gouvernements successifs, jusqu'en 1998. D'autres membres du parti écologiste y occuperont également des postes."
+            notes: `Alors que la Lettonie ne récupère intégralement son indépendance de Moscou qu'à l'été 1991, dès 1993, le parti vert letton (LZP) est au gouvernement.C'est sous le premier ministre  Valdis Birkavs, du parti communiste, qu'Indulis Emsis est nommé ministre d'État à l'Environnement. Le futur premier ministre conserve son portefeuille dans cinq gouvernements successifs, jusqu'en 1998. D'autres membres du parti écologiste y occuperont également des postes.`
         },
         "FIN": {
             statut: 3,
@@ -520,14 +520,14 @@ export const data = {
     1997: {
         "FRA": {
             statut: 3,
-            notes: "C'est également sous l'étiquette de Génération Écologie que Corinne Lepage, actuelle co-présidente de Cap Écologie, devient ministre de l'Environnement dans le gouvernement d'Alain Juppé.",
+            notes: `C'est également sous l'étiquette de Génération Écologie que Corinne Lepage, actuelle co-présidente de Cap Écologie, devient ministre de l'Environnement dans le gouvernement d'Alain Juppé.`,
             transition: true,
             statut2: 3,
             notes2: `L'entrée "officielle" des Verts au gouvernement se fait sous celui de Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l'Aménagement du territoire et de l'Environnement jusqu'en 2001, date à laquelle Yves Cochet, également membre du parti, la remplace. La coalition de la "gauche plurielle" compte un dernier écologiste au sein du gouvernement à partir du remaniement de 2000, Guy Hascoët en tant que Secrétaire d'État à l'Économie Solidaire.`
         },
         "LVA": {
             statut: 3,
-            notes: "Alors que la Lettonie ne récupère intégralement son indépendance de Moscou qu'à l'été 1991, dès 1993, le parti vert letton (LZP) est au gouvernement.C'est sous le premier ministre  Valdis Birkavs, du parti communiste, qu'Indulis Emsis est nommé ministre d'État à l'Environnement. Le futur premier ministre conserve son portefeuille dans cinq gouvernements successifs, jusqu'en 1998. D'autres membres du parti écologiste y occuperont également des postes."
+            notes: `Alors que la Lettonie ne récupère intégralement son indépendance de Moscou qu'à l'été 1991, dès 1993, le parti vert letton (LZP) est au gouvernement.C'est sous le premier ministre  Valdis Birkavs, du parti communiste, qu'Indulis Emsis est nommé ministre d'État à l'Environnement. Le futur premier ministre conserve son portefeuille dans cinq gouvernements successifs, jusqu'en 1998. D'autres membres du parti écologiste y occuperont également des postes.`
         },
         "FIN": {
             statut: 3,
