@@ -136,6 +136,11 @@ p.title {
     transform: translate(2.6em, -0.6em);
     pointer-events: none;
     touch-action: none;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
     opacity: 0;
     transition: opacity 200ms;
     background-color: white !important;
