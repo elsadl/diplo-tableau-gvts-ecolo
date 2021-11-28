@@ -10,15 +10,9 @@
     box-sizing: border-box;
 }
 
-p, h1 {
+p {
     margin: 0;
     padding: 0;
-}
-
-h1 {
-    font-size: 1.75em;
-    font-weight: 600;
-    margin-bottom: 0.4em;
 }
 
 .exposant {
@@ -31,6 +25,14 @@ h1 {
     display: grid;
     grid-template-columns: repeat(33, 1fr);
     align-items: center;
+    transform-origin: top left;
+}
+
+p.title {
+    grid-column: 1 / -1;
+    font-size: 1.75em;
+    font-weight: 600;
+    margin-bottom: 0.4em;
 }
 
 .credits, .footnotes {
