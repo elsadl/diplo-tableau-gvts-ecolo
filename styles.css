@@ -150,7 +150,7 @@ p.title {
     z-index: 100;
 }
 
-.case .notes:active>p,
+.case .notes.hovered>p,
 .case .notes:hover>p {
     opacity: 1;
 }
@@ -178,15 +178,15 @@ p.title {
     border-right: 2px solid;
 }
 
-.case.transition .notes:first-child:active+.notes p.notes1,
-.case.split .notes:first-child:active+.notes p.notes1,
+.case.transition .notes:first-child.hovered+.notes p.notes1,
+.case.split .notes:first-child.hovered+.notes p.notes1,
 .case.transition .notes:first-child:hover+.notes p.notes1,
 .case.split .notes:first-child:hover+.notes p.notes1 {
     opacity: 1;
 }
 
-.case.transition .notes:last-child:active p.notes1,
-.case.split .notes:last-child:active p.notes1,
+.case.transition .notes:last-child.hovered p.notes1,
+.case.split .notes:last-child.hovered p.notes1,
 .case.transition .notes:last-child:hover p.notes1,
 .case.split .notes:last-child:hover p.notes1 {
     opacity: 0;
