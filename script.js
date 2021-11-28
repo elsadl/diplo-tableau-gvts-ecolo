@@ -21,8 +21,8 @@ window.onload = init;
 const createTableau = () => {
   fillTableau();
   addNotes();
-  fixPositionTooltips();
   tableau.style.display = "grid";
+  fixPositionTooltips();
   tableauWidth = tableau.getBoundingClientRect().width + 20;
   scaleTableau();
 };
