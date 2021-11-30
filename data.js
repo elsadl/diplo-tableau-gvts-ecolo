@@ -523,7 +523,7 @@ export const data = {
             notes: `Avocate spécialisée dans les questions d’environnement (marée noire, nucléaire), Corinne Lepage est ministre de l’environnement dans le gouvernement d’Alain Juppé de mai 1995 à juin 1997, sous l’étiquette de Génération écologie.`,
             transition: true,
             statut2: 3,
-            notes2: `Les Verts entrent dans le gouvernement de « gauche plurielle » dirigé par Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l’aménagement du territoire et de l’environnement de juin 1997 à juillet 2001, date à laquelle Yves Cochet la remplace. Guy Hascoët est secrétaire d’État à l’économie solidaire de mars 2000 à mai 2002.`
+            notes2: `Les Verts entrent dans le gouvernement de « gauche plurielle » dirigé par Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l’aménagement du territoire et de l’environnement de juin 1997 à juillet 2001, date à laquelle Yves Cochet la remplace. Guy Hascoët est secrétaire d’État à l’économie solidaire de mars 2000 à mai 2002.`
         },
         "LVA": {
             statut: 3,
@@ -597,7 +597,7 @@ export const data = {
     1998: {
         "FRA": {
             statut: 3,
-            notes: `Les Verts entrent dans le gouvernement de « gauche plurielle » dirigé par Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l’aménagement du territoire et de l’environnement de juin 1997 à juillet 2001, date à laquelle Yves Cochet la remplace. Guy Hascoët est secrétaire d’État à l’économie solidaire de mars 2000 à mai 2002.`,
+            notes: `Les Verts entrent dans le gouvernement de « gauche plurielle » dirigé par Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l’aménagement du territoire et de l’environnement de juin 1997 à juillet 2001, date à laquelle Yves Cochet la remplace. Guy Hascoët est secrétaire d’État à l’économie solidaire de mars 2000 à mai 2002.`,
         },
         "LVA": {
             statut: 1,
@@ -671,7 +671,7 @@ export const data = {
     1999: {
         "FRA": {
             statut: 3,
-            notes: `Les Verts entrent dans le gouvernement de « gauche plurielle » dirigé par Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l’aménagement du territoire et de l’environnement de juin 1997 à juillet 2001, date à laquelle Yves Cochet la remplace. Guy Hascoët est secrétaire d’État à l’économie solidaire de mars 2000 à mai 2002.`,
+            notes: `Les Verts entrent dans le gouvernement de « gauche plurielle » dirigé par Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l’aménagement du territoire et de l’environnement de juin 1997 à juillet 2001, date à laquelle Yves Cochet la remplace. Guy Hascoët est secrétaire d’État à l’économie solidaire de mars 2000 à mai 2002.`,
         },
         "LVA": {
             statut: 1,
@@ -691,7 +691,7 @@ export const data = {
         },
         "BEL": {
             statut: 3,
-            notes: `Le gouvernement du libéral flamand Guy et la coalition « arc-en-ciel » comprennent le Parti Ecolo (francophone) et son pendant néerlandophone Agalev (aujourd’hui Groen), de juin 1999 à juillet 2003. Isabelle Durant est vice-première ministre, chargée des transports et de la mobilité. Magda Aelvoet (puis Jef Tavernier) est ministre de la consommation, de la santé publique et de l’environnement. Oliver Deleuze est secrétaire d’État à l’énergie et au développement durable, Eddy Boutmans, à la coopération et au développement. Les écologistes quittent la majorité avant les élections législatives de 2003.`
+            notes: `Le gouvernement du libéral flamand Guy et la coalition « arc-en-ciel » comprennent le Parti Ecolo (francophone) et son pendant néerlandophone Agalev (aujourd’hui Groen), de juin 1999 à juillet 2003. Isabelle Durant est vice-première ministre, chargée des transports et de la mobilité. Magda Aelvoet (puis Jef Tavernier) est ministre de la consommation, de la santé publique et de l’environnement. Oliver Deleuze est secrétaire d’État à l’énergie et au développement durable, Eddy Boutmans, à la coopération et au développement. Les écologistes quittent la majorité avant les élections législatives de 2003.`
         },
         "ESP": {
             statut: 1,
@@ -745,7 +745,7 @@ export const data = {
     2000: {
         "FRA": {
             statut: 3,
-            notes: `Les Verts entrent dans le gouvernement de « gauche plurielle » dirigé par Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l’aménagement du territoire et de l’environnement de juin 1997 à juillet 2001, date à laquelle Yves Cochet la remplace. Guy Hascoët est secrétaire d’État à l’économie solidaire de mars 2000 à mai 2002.`,
+            notes: `Les Verts entrent dans le gouvernement de « gauche plurielle » dirigé par Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l’aménagement du territoire et de l’environnement de juin 1997 à juillet 2001, date à laquelle Yves Cochet la remplace. Guy Hascoët est secrétaire d’État à l’économie solidaire de mars 2000 à mai 2002.`,
         },
         "LVA": {
             statut: 1,
@@ -765,7 +765,7 @@ export const data = {
         },
         "BEL": {
             statut: 3,
-            notes: `Le gouvernement du libéral flamand Guy et la coalition « arc-en-ciel » comprennent le Parti Ecolo (francophone) et son pendant néerlandophone Agalev (aujourd’hui Groen), de juin 1999 à juillet 2003. Isabelle Durant est vice-première ministre, chargée des transports et de la mobilité. Magda Aelvoet (puis Jef Tavernier) est ministre de la consommation, de la santé publique et de l’environnement. Oliver Deleuze est secrétaire d’État à l’énergie et au développement durable, Eddy Boutmans, à la coopération et au développement. Les écologistes quittent la majorité avant les élections législatives de 2003.`
+            notes: `Le gouvernement du libéral flamand Guy et la coalition « arc-en-ciel » comprennent le Parti Ecolo (francophone) et son pendant néerlandophone Agalev (aujourd’hui Groen), de juin 1999 à juillet 2003. Isabelle Durant est vice-première ministre, chargée des transports et de la mobilité. Magda Aelvoet (puis Jef Tavernier) est ministre de la consommation, de la santé publique et de l’environnement. Oliver Deleuze est secrétaire d’État à l’énergie et au développement durable, Eddy Boutmans, à la coopération et au développement. Les écologistes quittent la majorité avant les élections législatives de 2003.`
         },
         "ESP": {
             statut: 1,
@@ -819,7 +819,7 @@ export const data = {
     2001: {
         "FRA": {
             statut: 3,
-            notes: `Les Verts entrent dans le gouvernement de « gauche plurielle » dirigé par Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l’aménagement du territoire et de l’environnement de juin 1997 à juillet 2001, date à laquelle Yves Cochet la remplace. Guy Hascoët est secrétaire d’État à l’économie solidaire de mars 2000 à mai 2002.`,
+            notes: `Les Verts entrent dans le gouvernement de « gauche plurielle » dirigé par Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l’aménagement du territoire et de l’environnement de juin 1997 à juillet 2001, date à laquelle Yves Cochet la remplace. Guy Hascoët est secrétaire d’État à l’économie solidaire de mars 2000 à mai 2002.`,
         },
         "LVA": {
             statut: 1,
@@ -839,7 +839,7 @@ export const data = {
         },
         "BEL": {
             statut: 3,
-            notes: `Le gouvernement du libéral flamand Guy et la coalition « arc-en-ciel » comprennent le Parti Ecolo (francophone) et son pendant néerlandophone Agalev (aujourd’hui Groen), de juin 1999 à juillet 2003. Isabelle Durant est vice-première ministre, chargée des transports et de la mobilité. Magda Aelvoet (puis Jef Tavernier) est ministre de la consommation, de la santé publique et de l’environnement. Oliver Deleuze est secrétaire d’État à l’énergie et au développement durable, Eddy Boutmans, à la coopération et au développement. Les écologistes quittent la majorité avant les élections législatives de 2003.`
+            notes: `Le gouvernement du libéral flamand Guy et la coalition « arc-en-ciel » comprennent le Parti Ecolo (francophone) et son pendant néerlandophone Agalev (aujourd’hui Groen), de juin 1999 à juillet 2003. Isabelle Durant est vice-première ministre, chargée des transports et de la mobilité. Magda Aelvoet (puis Jef Tavernier) est ministre de la consommation, de la santé publique et de l’environnement. Oliver Deleuze est secrétaire d’État à l’énergie et au développement durable, Eddy Boutmans, à la coopération et au développement. Les écologistes quittent la majorité avant les élections législatives de 2003.`
         },
         "ESP": {
             statut: 1,
@@ -893,7 +893,7 @@ export const data = {
     2002: {
         "FRA": {
             statut: 3,
-            notes: `Les Verts entrent dans le gouvernement de « gauche plurielle » dirigé par Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l’aménagement du territoire et de l’environnement de juin 1997 à juillet 2001, date à laquelle Yves Cochet la remplace. Guy Hascoët est secrétaire d’État à l’économie solidaire de mars 2000 à mai 2002.`,
+            notes: `Les Verts entrent dans le gouvernement de « gauche plurielle » dirigé par Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l’aménagement du territoire et de l’environnement de juin 1997 à juillet 2001, date à laquelle Yves Cochet la remplace. Guy Hascoët est secrétaire d’État à l’économie solidaire de mars 2000 à mai 2002.`,
         },
         "LVA": {
             statut: 3,
@@ -913,7 +913,7 @@ export const data = {
         },
         "BEL": {
             statut: 3,
-            notes: `Le gouvernement du libéral flamand Guy et la coalition « arc-en-ciel » comprennent le Parti Ecolo (francophone) et son pendant néerlandophone Agalev (aujourd’hui Groen), de juin 1999 à juillet 2003. Isabelle Durant est vice-première ministre, chargée des transports et de la mobilité. Magda Aelvoet (puis Jef Tavernier) est ministre de la consommation, de la santé publique et de l’environnement. Oliver Deleuze est secrétaire d’État à l’énergie et au développement durable, Eddy Boutmans, à la coopération et au développement. Les écologistes quittent la majorité avant les élections législatives de 2003.`
+            notes: `Le gouvernement du libéral flamand Guy et la coalition « arc-en-ciel » comprennent le Parti Ecolo (francophone) et son pendant néerlandophone Agalev (aujourd’hui Groen), de juin 1999 à juillet 2003. Isabelle Durant est vice-première ministre, chargée des transports et de la mobilité. Magda Aelvoet (puis Jef Tavernier) est ministre de la consommation, de la santé publique et de l’environnement. Oliver Deleuze est secrétaire d’État à l’énergie et au développement durable, Eddy Boutmans, à la coopération et au développement. Les écologistes quittent la majorité avant les élections législatives de 2003.`
         },
         "ESP": {
             statut: 1,
@@ -987,7 +987,7 @@ export const data = {
         },
         "BEL": {
             statut: 3,
-            notes: `Le gouvernement du libéral flamand Guy et la coalition « arc-en-ciel » comprennent le Parti Ecolo (francophone) et son pendant néerlandophone Agalev (aujourd’hui Groen), de juin 1999 à juillet 2003. Isabelle Durant est vice-première ministre, chargée des transports et de la mobilité. Magda Aelvoet (puis Jef Tavernier) est ministre de la consommation, de la santé publique et de l’environnement. Oliver Deleuze est secrétaire d’État à l’énergie et au développement durable, Eddy Boutmans, à la coopération et au développement. Les écologistes quittent la majorité avant les élections législatives de 2003.`
+            notes: `Le gouvernement du libéral flamand Guy et la coalition « arc-en-ciel » comprennent le Parti Ecolo (francophone) et son pendant néerlandophone Agalev (aujourd’hui Groen), de juin 1999 à juillet 2003. Isabelle Durant est vice-première ministre, chargée des transports et de la mobilité. Magda Aelvoet (puis Jef Tavernier) est ministre de la consommation, de la santé publique et de l’environnement. Oliver Deleuze est secrétaire d’État à l’énergie et au développement durable, Eddy Boutmans, à la coopération et au développement. Les écologistes quittent la majorité avant les élections législatives de 2003.`
         },
         "ESP": {
             statut: 1,
@@ -1520,7 +1520,7 @@ export const data = {
         },
         "CZE": {
             statut: 2,
-            notes: `De mai 2009 à juillet 2010, le parti Vert soutient le gouvernement « indépendant » de Jan Fisher, sans participation.`
+            notes: `De mai 2009 à juillet 2010, le parti Vert soutient le gouvernement « indépendant » de Jan Fisher, sans participation.`
         },
         "ISL": {
             statut: 3,
@@ -2002,7 +2002,7 @@ export const data = {
         },
         "LTU": {
             statut: 3,
-            notes: `En 2012, l’Union des paysans lituaniens décide de se renommer « Union des Paysans et des Verts lituaniens » (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. D’octobre 2016 à décembre 2020, le LVŽS se voit attribuer plusieurs portefeuilles – dont celui de l’environnement – dans le gouvernement de centre-gauche dirigé par l’indépendant Saulius Skvernelis.`
+            notes: `En 2012, l’Union des paysans lituaniens décide de se renommer « Union des Paysans et des Verts lituaniens » (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. D’octobre 2016 à décembre 2020, le LVŽS se voit attribuer plusieurs portefeuilles – dont celui de l’environnement – dans le gouvernement de centre-gauche dirigé par l’indépendant Saulius Skvernelis.`
         },
         "MNE": {
             statut: 1,
@@ -2054,7 +2054,7 @@ export const data = {
         },
         "ISL": {
             statut: 3,
-            notes: `Depuis octobre 2017, la cheffe du Mouvement Vert et de Gauche, Katrín Jakobsdottir, est première ministre d’Islande. Elle dirige une coalition avec le centre et la droite (parti de l’Indépendance et parti du Progrès). Le gouvernement compte deux autres ministres « rouges et verts », Svandís Svavarsdóttir à la santé (puis à la pêche depuis novembre 2021) et Guðmundur Ingi Guðbrandsson à l’environnement (puis aux affaires sociales).`
+            notes: `Depuis octobre 2017, la cheffe du Mouvement Vert et de Gauche, Katrín Jakobsdottir, est première ministre d’Islande. Elle dirige une coalition avec le centre et la droite (parti de l’Indépendance et parti du Progrès). Le gouvernement compte deux autres ministres « rouges et verts », Svandís Svavarsdóttir à la santé (puis à la pêche depuis novembre 2021) et Guðmundur Ingi Guðbrandsson à l’environnement (puis aux affaires sociales).`
         },
         "DNK": {
             statut: 1,
@@ -2082,7 +2082,7 @@ export const data = {
         },
         "LTU": {
             statut: 3,
-            notes: `En 2012, l’Union des paysans lituaniens décide de se renommer « Union des Paysans et des Verts lituaniens » (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. D’octobre 2016 à décembre 2020, le LVŽS se voit attribuer plusieurs portefeuilles – dont celui de l’environnement – dans le gouvernement de centre-gauche dirigé par l’indépendant Saulius Skvernelis.`
+            notes: `En 2012, l’Union des paysans lituaniens décide de se renommer « Union des Paysans et des Verts lituaniens » (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. D’octobre 2016 à décembre 2020, le LVŽS se voit attribuer plusieurs portefeuilles – dont celui de l’environnement – dans le gouvernement de centre-gauche dirigé par l’indépendant Saulius Skvernelis.`
         },
         "MNE": {
             statut: 1,
@@ -2131,7 +2131,7 @@ export const data = {
         },
         "ISL": {
             statut: 3,
-            notes: `Depuis octobre 2017, la cheffe du Mouvement Vert et de Gauche, Katrín Jakobsdottir, est première ministre d’Islande. Elle dirige une coalition avec le centre et la droite (parti de l’Indépendance et parti du Progrès). Le gouvernement compte deux autres ministres « rouges et verts », Svandís Svavarsdóttir à la santé (puis à la pêche depuis novembre 2021) et Guðmundur Ingi Guðbrandsson à l’environnement (puis aux affaires sociales).`
+            notes: `Depuis octobre 2017, la cheffe du Mouvement Vert et de Gauche, Katrín Jakobsdottir, est première ministre d’Islande. Elle dirige une coalition avec le centre et la droite (parti de l’Indépendance et parti du Progrès). Le gouvernement compte deux autres ministres « rouges et verts », Svandís Svavarsdóttir à la santé (puis à la pêche depuis novembre 2021) et Guðmundur Ingi Guðbrandsson à l’environnement (puis aux affaires sociales).`
         },
         "DNK": {
             statut: 1,
@@ -2159,7 +2159,7 @@ export const data = {
         },
         "LTU": {
             statut: 3,
-            notes: `En 2012, l’Union des paysans lituaniens décide de se renommer « Union des Paysans et des Verts lituaniens » (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. D’octobre 2016 à décembre 2020, le LVŽS se voit attribuer plusieurs portefeuilles – dont celui de l’environnement – dans le gouvernement de centre-gauche dirigé par l’indépendant Saulius Skvernelis.`
+            notes: `En 2012, l’Union des paysans lituaniens décide de se renommer « Union des Paysans et des Verts lituaniens » (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. D’octobre 2016 à décembre 2020, le LVŽS se voit attribuer plusieurs portefeuilles – dont celui de l’environnement – dans le gouvernement de centre-gauche dirigé par l’indépendant Saulius Skvernelis.`
         },
         "MNE": {
             statut: 1,
@@ -2208,7 +2208,7 @@ export const data = {
         },
         "ISL": {
             statut: 3,
-            notes: `Depuis octobre 2017, la cheffe du Mouvement Vert et de Gauche, Katrín Jakobsdottir, est première ministre d’Islande. Elle dirige une coalition avec le centre et la droite (parti de l’Indépendance et parti du Progrès). Le gouvernement compte deux autres ministres « rouges et verts », Svandís Svavarsdóttir à la santé (puis à la pêche depuis novembre 2021) et Guðmundur Ingi Guðbrandsson à l’environnement (puis aux affaires sociales).`
+            notes: `Depuis octobre 2017, la cheffe du Mouvement Vert et de Gauche, Katrín Jakobsdottir, est première ministre d’Islande. Elle dirige une coalition avec le centre et la droite (parti de l’Indépendance et parti du Progrès). Le gouvernement compte deux autres ministres « rouges et verts », Svandís Svavarsdóttir à la santé (puis à la pêche depuis novembre 2021) et Guðmundur Ingi Guðbrandsson à l’environnement (puis aux affaires sociales).`
         },
         "DNK": {
             statut: 2,
@@ -2236,7 +2236,7 @@ export const data = {
         },
         "LTU": {
             statut: 3,
-            notes: `En 2012, l’Union des paysans lituaniens décide de se renommer « Union des Paysans et des Verts lituaniens » (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. D’octobre 2016 à décembre 2020, le LVŽS se voit attribuer plusieurs portefeuilles – dont celui de l’environnement – dans le gouvernement de centre-gauche dirigé par l’indépendant Saulius Skvernelis.`
+            notes: `En 2012, l’Union des paysans lituaniens décide de se renommer « Union des Paysans et des Verts lituaniens » (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. D’octobre 2016 à décembre 2020, le LVŽS se voit attribuer plusieurs portefeuilles – dont celui de l’environnement – dans le gouvernement de centre-gauche dirigé par l’indépendant Saulius Skvernelis.`
         },
         "MNE": {
             statut: 1,
@@ -2282,7 +2282,7 @@ export const data = {
         },
         "ISL": {
             statut: 3,
-            notes: `Depuis octobre 2017, la cheffe du Mouvement Vert et de Gauche, Katrín Jakobsdottir, est première ministre d’Islande. Elle dirige une coalition avec le centre et la droite (parti de l’Indépendance et parti du Progrès). Le gouvernement compte deux autres ministres « rouges et verts », Svandís Svavarsdóttir à la santé (puis à la pêche depuis novembre 2021) et Guðmundur Ingi Guðbrandsson à l’environnement (puis aux affaires sociales).`
+            notes: `Depuis octobre 2017, la cheffe du Mouvement Vert et de Gauche, Katrín Jakobsdottir, est première ministre d’Islande. Elle dirige une coalition avec le centre et la droite (parti de l’Indépendance et parti du Progrès). Le gouvernement compte deux autres ministres « rouges et verts », Svandís Svavarsdóttir à la santé (puis à la pêche depuis novembre 2021) et Guðmundur Ingi Guðbrandsson à l’environnement (puis aux affaires sociales).`
         },
         "DNK": {
             statut: 2,
@@ -2313,11 +2313,11 @@ export const data = {
         },
         "LTU": {
             statut: 3,
-            notes: `En 2012, l’Union des paysans lituaniens décide de se renommer « Union des Paysans et des Verts lituaniens » (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. D’octobre 2016 à décembre 2020, le LVŽS se voit attribuer plusieurs portefeuilles – dont celui de l’environnement – dans le gouvernement de centre-gauche dirigé par l’indépendant Saulius Skvernelis.`
+            notes: `En 2012, l’Union des paysans lituaniens décide de se renommer « Union des Paysans et des Verts lituaniens » (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. D’octobre 2016 à décembre 2020, le LVŽS se voit attribuer plusieurs portefeuilles – dont celui de l’environnement – dans le gouvernement de centre-gauche dirigé par l’indépendant Saulius Skvernelis.`
         },
         "MNE": {
             statut: 3,
-            notes: `Après les élections d’août 2020, le parti aux commandes depuis 30 ans cède le pouvoir à une coalition. Le nouveau premier ministre Zdravko Krivokapić prend, en décembre 2020, Dritan Abazović comme vice-premier ministre et ministre de la sécurité intérieure. Membre de l’Action réformée unie (URA), parti social-libéral se revendiquant écologiste (membre du parti vert européen), il est affilié à la plateforme civique « En noir et blanc », qui rassemble des partis du centre et de centre-gauche.`
+            notes: `Après les élections d’août 2020, le parti aux commandes depuis 30 ans cède le pouvoir à une coalition. Le nouveau premier ministre Zdravko Krivokapić prend, en décembre 2020, Dritan Abazović comme vice-premier ministre et ministre de la sécurité intérieure. Membre de l’Action réformée unie (URA), parti social-libéral se revendiquant écologiste (membre du parti vert européen), il est affilié à la plateforme civique « En noir et blanc », qui rassemble des partis du centre et de centre-gauche.`
         },
     },
     2021: {
@@ -2342,7 +2342,7 @@ export const data = {
             notes: ``,
             transition: true,
             statut2: 3,
-            notes2: `Le 24 novembre 2021, les sociaux-démocrates, les libéraux et les Verts présentent un accord de coalition, qui doit être encore ratifié par chacun des partis. Les deux coresponsables des Verts sont pressentis pour entrer au gouvernement d’Olaf Scholz (SPD) : Robert Habeck deviendrait vice-chancelier à la tête d’un « super-ministère » du climat et de l’économie, Annalena Baerbock deviendrait ministre des affaires étrangères.`
+            notes2: `Le 24 novembre 2021, les sociaux-démocrates, les libéraux et les Verts présentent un accord de coalition, qui doit être encore ratifié par chacun des partis. Les deux coresponsables des Verts sont pressentis pour entrer au gouvernement d’Olaf Scholz (SPD) : Robert Habeck deviendrait vice-chancelier à la tête d’un « super-ministère » du climat et de l’économie, Annalena Baerbock deviendrait ministre des affaires étrangères.`
         },
         "BEL": {
             statut: 3,
@@ -2362,7 +2362,7 @@ export const data = {
         },
         "ISL": {
             statut: 3,
-            notes: `Depuis octobre 2017, la cheffe du Mouvement Vert et de Gauche, Katrín Jakobsdottir, est première ministre d’Islande. Elle dirige une coalition avec le centre et la droite (parti de l’Indépendance et parti du Progrès). Le gouvernement compte deux autres ministres « rouges et verts », Svandís Svavarsdóttir à la santé (puis à la pêche depuis novembre 2021) et Guðmundur Ingi Guðbrandsson à l’environnement (puis aux affaires sociales).`
+            notes: `Depuis octobre 2017, la cheffe du Mouvement Vert et de Gauche, Katrín Jakobsdottir, est première ministre d’Islande. Elle dirige une coalition avec le centre et la droite (parti de l’Indépendance et parti du Progrès). Le gouvernement compte deux autres ministres « rouges et verts », Svandís Svavarsdóttir à la santé (puis à la pêche depuis novembre 2021) et Guðmundur Ingi Guðbrandsson à l’environnement (puis aux affaires sociales).`
         },
         "DNK": {
             statut: 2,
@@ -2397,7 +2397,7 @@ export const data = {
         },
         "MNE": {
             statut: 3,
-            notes: `Après les élections d’août 2020, le parti aux commandes depuis 30 ans cède le pouvoir à une coalition. Le nouveau premier ministre Zdravko Krivokapić prend, en décembre 2020, Dritan Abazović comme vice-premier ministre et ministre de la sécurité intérieure. Membre de l’Action réformée unie (URA), parti social-libéral se revendiquant écologiste (membre du parti vert européen), il est affilié à la plateforme civique « En noir et blanc », qui rassemble des partis du centre et de centre-gauche.`
+            notes: `Après les élections d’août 2020, le parti aux commandes depuis 30 ans cède le pouvoir à une coalition. Le nouveau premier ministre Zdravko Krivokapić prend, en décembre 2020, Dritan Abazović comme vice-premier ministre et ministre de la sécurité intérieure. Membre de l’Action réformée unie (URA), parti social-libéral se revendiquant écologiste (membre du parti vert européen), il est affilié à la plateforme civique « En noir et blanc », qui rassemble des partis du centre et de centre-gauche.`
         },
     },
 }
