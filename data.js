@@ -2,7 +2,7 @@ export const data = {
     1990: {
         "FRA": {
             statut: 3,
-            notes: `Ministre délégué à l'Environnement dès 1990, Brice Lalonde reprend le portefeuille titulaire l'année suivante, dans le gouvernement d'Édith Cresson. Membre du Mouvement d'écologie politique, il le quitte pour fonder Génération Écologie en 1990. Le nouveau parti rejoint donc la coalition formée par le Mouvement des Radicaux de Gauche (MRG) et le Parti Socialiste (PS).`
+            notes: `Ancien militant des amis de la Terre, et candidat à l’élection présidentielle pour le Mouvement d’écologie politique en 1981, Brice Lalonde est le premier écologiste à entrer dans un gouvernement français, en mai 1988. Il est secrétaire d’État puis ministre l’environnement de Michel Rocard, poste qu’il conserve dans le gouvernement d’Édith Cresson. En 1990, il fonde Génération écologie avec Jean-Louis Borloo, Corinne Lepage et Noël Mamère, sous la bénédiction du président François Mitterrand, qui veut concurrencer les Verts. Son parti s’allie avec le Mouvement des radicaux de gauche (MRG) et le Parti socialiste (PS).`
         },
         "LVA": {
             statut: 0,
@@ -76,7 +76,7 @@ export const data = {
     1991: {
         "FRA": {
             statut: 3,
-            notes: `Ministre délégué à l'Environnement dès 1990, Brice Lalonde reprend le portefeuille titulaire l'année suivante, dans le gouvernement d'Édith Cresson. Membre du Mouvement d'écologie politique, il le quitte pour fonder Génération Écologie en 1990. Le nouveau parti rejoint donc la coalition formée par le Mouvement des Radicaux de Gauche (MRG) et le Parti Socialiste (PS).`
+            notes: `Ancien militant des amis de la Terre, et candidat à l’élection présidentielle pour le Mouvement d’écologie politique en 1981, Brice Lalonde est le premier écologiste à entrer dans un gouvernement français, en mai 1988. Il est secrétaire d’État puis ministre l’environnement de Michel Rocard, poste qu’il conserve dans le gouvernement d’Édith Cresson. En 1990, il fonde Génération écologie avec Jean-Louis Borloo, Corinne Lepage et Noël Mamère, sous la bénédiction du président François Mitterrand, qui veut concurrencer les Verts. Son parti s’allie avec le Mouvement des radicaux de gauche (MRG) et le Parti socialiste (PS).`
         },
         "LVA": {
             statut: 1,
@@ -150,7 +150,7 @@ export const data = {
     1992: {
         "FRA": {
             statut: 3,
-            notes: `Ministre délégué à l'Environnement dès 1990, Brice Lalonde reprend le portefeuille titulaire l'année suivante, dans le gouvernement d'Édith Cresson. Membre du Mouvement d'écologie politique, il le quitte pour fonder Génération Écologie en 1990. Le nouveau parti rejoint donc la coalition formée par le Mouvement des Radicaux de Gauche (MRG) et le Parti Socialiste (PS).`
+            notes: `Ancien militant des amis de la Terre, et candidat à l’élection présidentielle pour le Mouvement d’écologie politique en 1981, Brice Lalonde est le premier écologiste à entrer dans un gouvernement français, en mai 1988. Il est secrétaire d’État puis ministre l’environnement de Michel Rocard, poste qu’il conserve dans le gouvernement d’Édith Cresson. En 1990, il fonde Génération écologie avec Jean-Louis Borloo, Corinne Lepage et Noël Mamère, sous la bénédiction du président François Mitterrand, qui veut concurrencer les Verts. Son parti s’allie avec le Mouvement des radicaux de gauche (MRG) et le Parti socialiste (PS).`
         },
         "LVA": {
             statut: 1,
@@ -228,7 +228,7 @@ export const data = {
         },
         "LVA": {
             statut: 3,
-            notes: `Alors que la Lettonie ne récupère intégralement son indépendance de Moscou qu'à l'été 1991, dès 1993, le parti vert letton (LZP) est au gouvernement.C'est sous le premier ministre  Valdis Birkavs, du parti communiste, qu'Indulis Emsis est nommé ministre d'État à l'Environnement. Le futur premier ministre conserve son portefeuille dans cinq gouvernements successifs, jusqu'en 1998. D'autres membres du parti écologiste y occuperont également des postes.`
+            notes: `En Lettonie, indépendante depuis 1991, le fondateur du parti vert letton (LZP), Indulis Emsis, devient ministre d’État à l’environnement d’août 1993 à novembre 1998.`
         },
         "FIN": {
             statut: 1,
@@ -302,7 +302,7 @@ export const data = {
         },
         "LVA": {
             statut: 3,
-            notes: `Alors que la Lettonie ne récupère intégralement son indépendance de Moscou qu'à l'été 1991, dès 1993, le parti vert letton (LZP) est au gouvernement.C'est sous le premier ministre  Valdis Birkavs, du parti communiste, qu'Indulis Emsis est nommé ministre d'État à l'Environnement. Le futur premier ministre conserve son portefeuille dans cinq gouvernements successifs, jusqu'en 1998. D'autres membres du parti écologiste y occuperont également des postes.`
+            notes: `En Lettonie, indépendante depuis 1991, le fondateur du parti vert letton (LZP), Indulis Emsis, devient ministre d’État à l’environnement d’août 1993 à novembre 1998.`
         },
         "FIN": {
             statut: 1,
@@ -372,11 +372,11 @@ export const data = {
     1995: {
         "FRA": {
             statut: 3,
-            notes: `C'est également sous l'étiquette de Génération Écologie que Corinne Lepage, actuelle co-présidente de Cap Écologie, devient ministre de l'Environnement dans le gouvernement d'Alain Juppé.`
+            notes: `Avocate spécialisée dans les questions d’environnement (marée noire, nucléaire), Corinne Lepage est ministre de l’environnement dans le gouvernement d’Alain Juppé de mai 1995 à juin 1997, sous l’étiquette de Génération écologie.`
         },
         "LVA": {
             statut: 3,
-            notes: `Alors que la Lettonie ne récupère intégralement son indépendance de Moscou qu'à l'été 1991, dès 1993, le parti vert letton (LZP) est au gouvernement.C'est sous le premier ministre  Valdis Birkavs, du parti communiste, qu'Indulis Emsis est nommé ministre d'État à l'Environnement. Le futur premier ministre conserve son portefeuille dans cinq gouvernements successifs, jusqu'en 1998. D'autres membres du parti écologiste y occuperont également des postes.`
+            notes: `En Lettonie, indépendante depuis 1991, le fondateur du parti vert letton (LZP), Indulis Emsis, devient ministre d’État à l’environnement d’août 1993 à novembre 1998.`
         },
         "FIN": {
             statut: 3,
@@ -446,11 +446,11 @@ export const data = {
     1996: {
         "FRA": {
             statut: 3,
-            notes: `C'est également sous l'étiquette de Génération Écologie que Corinne Lepage, actuelle co-présidente de Cap Écologie, devient ministre de l'Environnement dans le gouvernement d'Alain Juppé.`
+            notes: `Avocate spécialisée dans les questions d’environnement (marée noire, nucléaire), Corinne Lepage est ministre de l’environnement dans le gouvernement d’Alain Juppé de mai 1995 à juin 1997, sous l’étiquette de Génération écologie.`
         },
         "LVA": {
             statut: 3,
-            notes: `Alors que la Lettonie ne récupère intégralement son indépendance de Moscou qu'à l'été 1991, dès 1993, le parti vert letton (LZP) est au gouvernement.C'est sous le premier ministre  Valdis Birkavs, du parti communiste, qu'Indulis Emsis est nommé ministre d'État à l'Environnement. Le futur premier ministre conserve son portefeuille dans cinq gouvernements successifs, jusqu'en 1998. D'autres membres du parti écologiste y occuperont également des postes.`
+            notes: `En Lettonie, indépendante depuis 1991, le fondateur du parti vert letton (LZP), Indulis Emsis, devient ministre d’État à l’environnement d’août 1993 à novembre 1998.`
         },
         "FIN": {
             statut: 3,
@@ -458,7 +458,7 @@ export const data = {
         },
         "ITA": {
             statut: 3,
-            notes: `Le premier ministre italien Romano Prodi forme en 1996 une coalition gouvernementale rassemblant le paysage politique de gauche et du centre. Federazione dei Italia en fait partie avec un seul portefeuille : Edoardo Ronchi est ministre de l'Environnement. On compte également trois secrétaires d'État écologistes. C'est la naissance de "l'Ulivo" - l'Olivier -, coalition  qui va durer près d'une décennie et dont Prodi est le premier leader.`
+            notes: `Premier ministre italien de mai 1996 à octobre 1998, Romano Prodi dirige la coalition de l’Olivier rassemblant la gauche, le centre et la Fédération des Verts (FdV). Edoardo Ronchi est ministre de l’environnement dans un gouvernement qui compte trois secrétaires d’État écologistes.`
         },
         "DEU": {
             statut: 1,
@@ -520,14 +520,14 @@ export const data = {
     1997: {
         "FRA": {
             statut: 3,
-            notes: `C'est également sous l'étiquette de Génération Écologie que Corinne Lepage, actuelle co-présidente de Cap Écologie, devient ministre de l'Environnement dans le gouvernement d'Alain Juppé.`,
+            notes: `Avocate spécialisée dans les questions d’environnement (marée noire, nucléaire), Corinne Lepage est ministre de l’environnement dans le gouvernement d’Alain Juppé de mai 1995 à juin 1997, sous l’étiquette de Génération écologie.`,
             transition: true,
             statut2: 3,
-            notes2: `L'entrée "officielle" des Verts au gouvernement se fait sous celui de Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l'Aménagement du territoire et de l'Environnement jusqu'en 2001, date à laquelle Yves Cochet, également membre du parti, la remplace. La coalition de la "gauche plurielle" compte un dernier écologiste au sein du gouvernement à partir du remaniement de 2000, Guy Hascoët en tant que Secrétaire d'État à l'Économie Solidaire.`
+            notes2: `Les Verts entrent dans le gouvernement de « gauche plurielle » dirigé par Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l’aménagement du territoire et de l’environnement de juin 1997 à juillet 2001, date à laquelle Yves Cochet la remplace. Guy Hascoët est secrétaire d’État à l’économie solidaire de mars 2000 à mai 2002.`
         },
         "LVA": {
             statut: 3,
-            notes: `Alors que la Lettonie ne récupère intégralement son indépendance de Moscou qu'à l'été 1991, dès 1993, le parti vert letton (LZP) est au gouvernement.C'est sous le premier ministre  Valdis Birkavs, du parti communiste, qu'Indulis Emsis est nommé ministre d'État à l'Environnement. Le futur premier ministre conserve son portefeuille dans cinq gouvernements successifs, jusqu'en 1998. D'autres membres du parti écologiste y occuperont également des postes.`
+            notes: `En Lettonie, indépendante depuis 1991, le fondateur du parti vert letton (LZP), Indulis Emsis, devient ministre d’État à l’environnement d’août 1993 à novembre 1998.`
         },
         "FIN": {
             statut: 3,
@@ -535,7 +535,7 @@ export const data = {
         },
         "ITA": {
             statut: 3,
-            notes: `Le premier ministre italien Romano Prodi forme en 1996 une coalition gouvernementale rassemblant le paysage politique de gauche et du centre. Federazione dei Italia en fait partie avec un seul portefeuille : Edoardo Ronchi est ministre de l'Environnement. On compte également trois secrétaires d'État écologistes. C'est la naissance de "l'Ulivo" - l'Olivier -, coalition  qui va durer près d'une décennie et dont Prodi est le premier leader.`
+            notes: `Premier ministre italien de mai 1996 à octobre 1998, Romano Prodi dirige la coalition de l’Olivier rassemblant la gauche, le centre et la Fédération des Verts (FdV). Edoardo Ronchi est ministre de l’environnement dans un gouvernement qui compte trois secrétaires d’État écologistes.`
         },
         "DEU": {
             statut: 1,
@@ -597,7 +597,7 @@ export const data = {
     1998: {
         "FRA": {
             statut: 3,
-            notes: `L'entrée "officielle" des Verts au gouvernement se fait sous celui de Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l'Aménagement du territoire et de l'Environnement jusqu'en 2001, date à laquelle Yves Cochet, également membre du parti, la remplace. La coalition de la "gauche plurielle" compte un dernier écologiste au sein du gouvernement à partir du remaniement de 2000, Guy Hascoët en tant que Secrétaire d'État à l'Économie Solidaire.`,
+            notes: `Les Verts entrent dans le gouvernement de « gauche plurielle » dirigé par Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l’aménagement du territoire et de l’environnement de juin 1997 à juillet 2001, date à laquelle Yves Cochet la remplace. Guy Hascoët est secrétaire d’État à l’économie solidaire de mars 2000 à mai 2002.`,
         },
         "LVA": {
             statut: 1,
@@ -609,11 +609,11 @@ export const data = {
         },
         "ITA": {
             statut: 3,
-            notes: `Le premier ministre italien Romano Prodi forme en 1996 une coalition gouvernementale rassemblant le paysage politique de gauche et du centre. Federazione dei Italia en fait partie avec un seul portefeuille : Edoardo Ronchi est ministre de l'Environnement. On compte également trois secrétaires d'État écologistes. C'est la naissance de "l'Ulivo" - l'Olivier -, coalition  qui va durer près d'une décennie et dont Prodi est le premier leader.`
+            notes: `Premier ministre italien de mai 1996 à octobre 1998, Romano Prodi dirige la coalition de l’Olivier rassemblant la gauche, le centre et la Fédération des Verts (FdV). Edoardo Ronchi est ministre de l’environnement dans un gouvernement qui compte trois secrétaires d’État écologistes.`
         },
         "DEU": {
             statut: 3,
-            notes: `"Die röt-grüne Bundesregierung" : Gerhard Schröder devient chancelier fédéral avec une alliance SPD-Les Verts`
+            notes: `Chancelier d’octobre 1998 à novembre 2005 à la tête d’une coalition rouge-verte, le social-démocrate Gerhard Schröder prend pour vice-chancelier et ministre des affaires étrangères Joschka Fischer, des Verts. Autres responsables des Grünen, Jürgen Trittin est ministre de l’environnement et Andrea Fischer ministre de la santé (jusqu’en 2001).`
         },
         "BEL": {
             statut: 1,
@@ -671,7 +671,7 @@ export const data = {
     1999: {
         "FRA": {
             statut: 3,
-            notes: `L'entrée "officielle" des Verts au gouvernement se fait sous celui de Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l'Aménagement du territoire et de l'Environnement jusqu'en 2001, date à laquelle Yves Cochet, également membre du parti, la remplace. La coalition de la "gauche plurielle" compte un dernier écologiste au sein du gouvernement à partir du remaniement de 2000, Guy Hascoët en tant que Secrétaire d'État à l'Économie Solidaire.`,
+            notes: `Les Verts entrent dans le gouvernement de « gauche plurielle » dirigé par Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l’aménagement du territoire et de l’environnement de juin 1997 à juillet 2001, date à laquelle Yves Cochet la remplace. Guy Hascoët est secrétaire d’État à l’économie solidaire de mars 2000 à mai 2002.`,
         },
         "LVA": {
             statut: 1,
@@ -683,15 +683,15 @@ export const data = {
         },
         "ITA": {
             statut: 3,
-            notes: `Suite à la première crise de confiance italienne entre le gouvernement et la Chambre et à la démission de Prodi, son successeur Massemo d'Alema maintient Edoardo Ronchi à l'Environnement. Jusqu'à ce que Silvio Berlusconi revienne au pouvoir à l'été 2001, les gouvernements qui se succèdent - d'Alema I, d'Alema II et Amato II - composent avec les Verts.`
+            notes: `Successeur de Prodi et premier ministre jusqu’en avril 2000, Massemo d’Alema conserve Edoardo Ronchi à l’environnement et nomme Laura Balbo à l’égalité des chances. Toujours soutenue par l’Olivier, son successeur Giuliano Amato (avril 2000, juin 2001) nomme les écologistes Gianni Francesco Mattioli (FdV) aux affaires européennes et Alfonso Pecoraro Scanio aux politiques agricoles et forestières.`
         },
         "DEU": {
             statut: 3,
-            notes: `"Die röt-grüne Bundesregierung" : Gerhard Schröder devient chancelier fédéral avec une alliance SPD-Les Verts`
+            notes: `Chancelier d’octobre 1998 à novembre 2005 à la tête d’une coalition rouge-verte, le social-démocrate Gerhard Schröder prend pour vice-chancelier et ministre des affaires étrangères Joschka Fischer, des Verts. Autres responsables des Grünen, Jürgen Trittin est ministre de l’environnement et Andrea Fischer ministre de la santé (jusqu’en 2001).`
         },
         "BEL": {
             statut: 3,
-            notes: `"La coalition arc-en-ciel" : sous le gouvernement Verhofstadt I, la coalition se compose de partis issus de l'ensemble du paysage politique, dont le parti Ecolo et son pendant néerlandais Agalev (aujourd'hui Groen).`
+            notes: `Le gouvernement du libéral flamand Guy et la coalition « arc-en-ciel » comprennent le Parti Ecolo (francophone) et son pendant néerlandophone Agalev (aujourd’hui Groen), de juin 1999 à juillet 2003. Isabelle Durant est vice-première ministre, chargée des transports et de la mobilité. Magda Aelvoet (puis Jef Tavernier) est ministre de la consommation, de la santé publique et de l’environnement. Oliver Deleuze est secrétaire d’État à l’énergie et au développement durable, Eddy Boutmans, à la coopération et au développement. Les écologistes quittent la majorité avant les élections législatives de 2003.`
         },
         "ESP": {
             statut: 1,
@@ -745,7 +745,7 @@ export const data = {
     2000: {
         "FRA": {
             statut: 3,
-            notes: `L'entrée "officielle" des Verts au gouvernement se fait sous celui de Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l'Aménagement du territoire et de l'Environnement jusqu'en 2001, date à laquelle Yves Cochet, également membre du parti, la remplace. La coalition de la "gauche plurielle" compte un dernier écologiste au sein du gouvernement à partir du remaniement de 2000, Guy Hascoët en tant que Secrétaire d'État à l'Économie Solidaire.`,
+            notes: `Les Verts entrent dans le gouvernement de « gauche plurielle » dirigé par Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l’aménagement du territoire et de l’environnement de juin 1997 à juillet 2001, date à laquelle Yves Cochet la remplace. Guy Hascoët est secrétaire d’État à l’économie solidaire de mars 2000 à mai 2002.`,
         },
         "LVA": {
             statut: 1,
@@ -753,19 +753,19 @@ export const data = {
         },
         "FIN": {
             statut: 3,
-            notes: `Dans son deuxième gouvernement, Paavo Lipponen nomme Satu Hassi ministre de l'Environnement et de la Coopération au Développement. Elle démissionne en 2002, opposée aux positions du gouvernement sur la construction d'un nouveau réacteur nucléaire en Finlande. Son départ marque la fin de la participation de la Ligue verte à la coalition.  Son homologue écologiste Osmo Soininvaara occupe quant à lui le poste de ministre des Services de base pendant six mois.`
+            notes: `Dans son deuxième gouvernement (avril 1999, avril 2003), Paavo Lipponen nomme Satu Hassi (Vihr) ministre de l’environnement et de la coopération au développement. Osmo Soininvaara occupe quant à lui le poste de ministre des services sanitaires et sociaux. Ils démissionnent en avril 2002 pour marquer leur opposition à la construction d’un nouveau réacteur nucléaire.`
         },
         "ITA": {
             statut: 3,
-            notes: `Suite à la première crise de confiance italienne entre le gouvernement et la Chambre et à la démission de Prodi, son successeur Massemo d'Alema maintient Edoardo Ronchi à l'Environnement. Jusqu'à ce que Silvio Berlusconi revienne au pouvoir à l'été 2001, les gouvernements qui se succèdent - d'Alema I, d'Alema II et Amato II - composent avec les Verts.`
+            notes: `Successeur de Prodi et premier ministre jusqu’en avril 2000, Massemo d’Alema conserve Edoardo Ronchi à l’environnement et nomme Laura Balbo à l’égalité des chances. Toujours soutenue par l’Olivier, son successeur Giuliano Amato (avril 2000, juin 2001) nomme les écologistes Gianni Francesco Mattioli (FdV) aux affaires européennes et Alfonso Pecoraro Scanio aux politiques agricoles et forestières.`
         },
         "DEU": {
             statut: 3,
-            notes: `"Die röt-grüne Bundesregierung" : Gerhard Schröder devient chancelier fédéral avec une alliance SPD-Les Verts`
+            notes: `Chancelier d’octobre 1998 à novembre 2005 à la tête d’une coalition rouge-verte, le social-démocrate Gerhard Schröder prend pour vice-chancelier et ministre des affaires étrangères Joschka Fischer, des Verts. Autres responsables des Grünen, Jürgen Trittin est ministre de l’environnement et Andrea Fischer ministre de la santé (jusqu’en 2001).`
         },
         "BEL": {
             statut: 3,
-            notes: `"La coalition arc-en-ciel" : sous le gouvernement Verhofstadt I, la coalition se compose de partis issus de l'ensemble du paysage politique, dont le parti Ecolo et son pendant néerlandais Agalev (aujourd'hui Groen).`
+            notes: `Le gouvernement du libéral flamand Guy et la coalition « arc-en-ciel » comprennent le Parti Ecolo (francophone) et son pendant néerlandophone Agalev (aujourd’hui Groen), de juin 1999 à juillet 2003. Isabelle Durant est vice-première ministre, chargée des transports et de la mobilité. Magda Aelvoet (puis Jef Tavernier) est ministre de la consommation, de la santé publique et de l’environnement. Oliver Deleuze est secrétaire d’État à l’énergie et au développement durable, Eddy Boutmans, à la coopération et au développement. Les écologistes quittent la majorité avant les élections législatives de 2003.`
         },
         "ESP": {
             statut: 1,
@@ -819,7 +819,7 @@ export const data = {
     2001: {
         "FRA": {
             statut: 3,
-            notes: `L'entrée "officielle" des Verts au gouvernement se fait sous celui de Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l'Aménagement du territoire et de l'Environnement jusqu'en 2001, date à laquelle Yves Cochet, également membre du parti, la remplace. La coalition de la "gauche plurielle" compte un dernier écologiste au sein du gouvernement à partir du remaniement de 2000, Guy Hascoët en tant que Secrétaire d'État à l'Économie Solidaire.`,
+            notes: `Les Verts entrent dans le gouvernement de « gauche plurielle » dirigé par Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l’aménagement du territoire et de l’environnement de juin 1997 à juillet 2001, date à laquelle Yves Cochet la remplace. Guy Hascoët est secrétaire d’État à l’économie solidaire de mars 2000 à mai 2002.`,
         },
         "LVA": {
             statut: 1,
@@ -827,19 +827,19 @@ export const data = {
         },
         "FIN": {
             statut: 3,
-            notes: `Dans son deuxième gouvernement, Paavo Lipponen nomme Satu Hassi ministre de l'Environnement et de la Coopération au Développement. Elle démissionne en 2002, opposée aux positions du gouvernement sur la construction d'un nouveau réacteur nucléaire en Finlande. Son départ marque la fin de la participation de la Ligue verte à la coalition.  Son homologue écologiste Osmo Soininvaara occupe quant à lui le poste de ministre des Services de base pendant six mois.`
+            notes: `Dans son deuxième gouvernement (avril 1999, avril 2003), Paavo Lipponen nomme Satu Hassi (Vihr) ministre de l’environnement et de la coopération au développement. Osmo Soininvaara occupe quant à lui le poste de ministre des services sanitaires et sociaux. Ils démissionnent en avril 2002 pour marquer leur opposition à la construction d’un nouveau réacteur nucléaire.`
         },
         "ITA": {
             statut: 3,
-            notes: `Suite à la première crise de confiance italienne entre le gouvernement et la Chambre et à la démission de Prodi, son successeur Massemo d'Alema maintient Edoardo Ronchi à l'Environnement. Jusqu'à ce que Silvio Berlusconi revienne au pouvoir à l'été 2001, les gouvernements qui se succèdent - d'Alema I, d'Alema II et Amato II - composent avec les Verts.`
+            notes: `Successeur de Prodi et premier ministre jusqu’en avril 2000, Massemo d’Alema conserve Edoardo Ronchi à l’environnement et nomme Laura Balbo à l’égalité des chances. Toujours soutenue par l’Olivier, son successeur Giuliano Amato (avril 2000, juin 2001) nomme les écologistes Gianni Francesco Mattioli (FdV) aux affaires européennes et Alfonso Pecoraro Scanio aux politiques agricoles et forestières.`
         },
         "DEU": {
             statut: 3,
-            notes: `"Die röt-grüne Bundesregierung" : Gerhard Schröder devient chancelier fédéral avec une alliance SPD-Les Verts`
+            notes: `Chancelier d’octobre 1998 à novembre 2005 à la tête d’une coalition rouge-verte, le social-démocrate Gerhard Schröder prend pour vice-chancelier et ministre des affaires étrangères Joschka Fischer, des Verts. Autres responsables des Grünen, Jürgen Trittin est ministre de l’environnement et Andrea Fischer ministre de la santé (jusqu’en 2001).`
         },
         "BEL": {
             statut: 3,
-            notes: `"La coalition arc-en-ciel" : sous le gouvernement Verhofstadt I, la coalition se compose de partis issus de l'ensemble du paysage politique, dont le parti Ecolo et son pendant néerlandais Agalev (aujourd'hui Groen).`
+            notes: `Le gouvernement du libéral flamand Guy et la coalition « arc-en-ciel » comprennent le Parti Ecolo (francophone) et son pendant néerlandophone Agalev (aujourd’hui Groen), de juin 1999 à juillet 2003. Isabelle Durant est vice-première ministre, chargée des transports et de la mobilité. Magda Aelvoet (puis Jef Tavernier) est ministre de la consommation, de la santé publique et de l’environnement. Oliver Deleuze est secrétaire d’État à l’énergie et au développement durable, Eddy Boutmans, à la coopération et au développement. Les écologistes quittent la majorité avant les élections législatives de 2003.`
         },
         "ESP": {
             statut: 1,
@@ -893,15 +893,15 @@ export const data = {
     2002: {
         "FRA": {
             statut: 3,
-            notes: `L'entrée "officielle" des Verts au gouvernement se fait sous celui de Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l'Aménagement du territoire et de l'Environnement jusqu'en 2001, date à laquelle Yves Cochet, également membre du parti, la remplace. La coalition de la "gauche plurielle" compte un dernier écologiste au sein du gouvernement à partir du remaniement de 2000, Guy Hascoët en tant que Secrétaire d'État à l'Économie Solidaire.`,
+            notes: `Les Verts entrent dans le gouvernement de « gauche plurielle » dirigé par Lionel Jospin, premier ministre de Jacques Chirac lors de la troisième cohabitation. Dominique Voynet est ministre de l’aménagement du territoire et de l’environnement de juin 1997 à juillet 2001, date à laquelle Yves Cochet la remplace. Guy Hascoët est secrétaire d’État à l’économie solidaire de mars 2000 à mai 2002.`,
         },
         "LVA": {
             statut: 3,
-            notes: `Après plusieurs années d'absence, le parti vert  se voit de nouveau attribuer le portefeuille de l'Environnement. C'est Raimonds Vējonis qui est nommé au gouvernement de Einars Repše. Jusqu'en 2009, il conserve ce ministère et est l'un des seuls Verts au sein de l'exécutif. A partir de 2009 et jusqu'en 2011, si le LZP ne compte plus de membres au gouvernement, l'Union des Verts et des Agriculteurs (ZZS) occupe de nombreux postes - dans le deuxième gouvernement de centre-droit de Dombrovskis (2010-2011), sept des quinze ministres sont de ZZS. Depuis 2002, cette liste commune avec l'Union des Agriculteurs permet aux Verts d'occuper une place plus importante dans le paysage politique letton.`
+            notes: `En 2002, le parti vert revient avec plusieurs postes dans le gouvernement dirigé par Einars Repše. Raimonds Vējonis est ministre de l’environnement jusqu’en 2009. De 2009 à 2011, le LZP ne compte plus de ministre, mais l’Union des verts et des agriculteurs (ZZS), à laquelle il appartient occupe de nombreux postes.`
         },
         "FIN": {
             statut: 3,
-            notes: `Dans son deuxième gouvernement, Paavo Lipponen nomme Satu Hassi ministre de l'Environnement et de la Coopération au Développement. Elle démissionne en 2002, opposée aux positions du gouvernement sur la construction d'un nouveau réacteur nucléaire en Finlande. Son départ marque la fin de la participation de la Ligue verte à la coalition.  Son homologue écologiste Osmo Soininvaara occupe quant à lui le poste de ministre des Services de base pendant six mois.`
+            notes: `Dans son deuxième gouvernement (avril 1999, avril 2003), Paavo Lipponen nomme Satu Hassi (Vihr) ministre de l’environnement et de la coopération au développement. Osmo Soininvaara occupe quant à lui le poste de ministre des services sanitaires et sociaux. Ils démissionnent en avril 2002 pour marquer leur opposition à la construction d’un nouveau réacteur nucléaire.`
         },
         "ITA": {
             statut: 1,
@@ -909,11 +909,11 @@ export const data = {
         },
         "DEU": {
             statut: 3,
-            notes: `"Die röt-grüne Bundesregierung" : Gerhard Schröder devient chancelier fédéral avec une alliance SPD-Les Verts`
+            notes: `Chancelier d’octobre 1998 à novembre 2005 à la tête d’une coalition rouge-verte, le social-démocrate Gerhard Schröder prend pour vice-chancelier et ministre des affaires étrangères Joschka Fischer, des Verts. Autres responsables des Grünen, Jürgen Trittin est ministre de l’environnement et Andrea Fischer ministre de la santé (jusqu’en 2001).`
         },
         "BEL": {
             statut: 3,
-            notes: `"La coalition arc-en-ciel" : sous le gouvernement Verhofstadt I, la coalition se compose de partis issus de l'ensemble du paysage politique, dont le parti Ecolo et son pendant néerlandais Agalev (aujourd'hui Groen).`
+            notes: `Le gouvernement du libéral flamand Guy et la coalition « arc-en-ciel » comprennent le Parti Ecolo (francophone) et son pendant néerlandophone Agalev (aujourd’hui Groen), de juin 1999 à juillet 2003. Isabelle Durant est vice-première ministre, chargée des transports et de la mobilité. Magda Aelvoet (puis Jef Tavernier) est ministre de la consommation, de la santé publique et de l’environnement. Oliver Deleuze est secrétaire d’État à l’énergie et au développement durable, Eddy Boutmans, à la coopération et au développement. Les écologistes quittent la majorité avant les élections législatives de 2003.`
         },
         "ESP": {
             statut: 1,
@@ -971,7 +971,7 @@ export const data = {
         },
         "LVA": {
             statut: 3,
-            notes: `Après plusieurs années d'absence, le parti vert  se voit de nouveau attribuer le portefeuille de l'Environnement. C'est Raimonds Vējonis qui est nommé au gouvernement de Einars Repše. Jusqu'en 2009, il conserve ce ministère et est l'un des seuls Verts au sein de l'exécutif. A partir de 2009 et jusqu'en 2011, si le LZP ne compte plus de membres au gouvernement, l'Union des Verts et des Agriculteurs (ZZS) occupe de nombreux postes - dans le deuxième gouvernement de centre-droit de Dombrovskis (2010-2011), sept des quinze ministres sont de ZZS. Depuis 2002, cette liste commune avec l'Union des Agriculteurs permet aux Verts d'occuper une place plus importante dans le paysage politique letton.`
+            notes: `En 2002, le parti vert revient avec plusieurs postes dans le gouvernement dirigé par Einars Repše. Raimonds Vējonis est ministre de l’environnement jusqu’en 2009. De 2009 à 2011, le LZP ne compte plus de ministre, mais l’Union des verts et des agriculteurs (ZZS), à laquelle il appartient occupe de nombreux postes.`
         },
         "FIN": {
             statut: 1,
@@ -983,11 +983,11 @@ export const data = {
         },
         "DEU": {
             statut: 3,
-            notes: `"Die röt-grüne Bundesregierung" : Gerhard Schröder devient chancelier fédéral avec une alliance SPD-Les Verts`
+            notes: `Chancelier d’octobre 1998 à novembre 2005 à la tête d’une coalition rouge-verte, le social-démocrate Gerhard Schröder prend pour vice-chancelier et ministre des affaires étrangères Joschka Fischer, des Verts. Autres responsables des Grünen, Jürgen Trittin est ministre de l’environnement et Andrea Fischer ministre de la santé (jusqu’en 2001).`
         },
         "BEL": {
             statut: 3,
-            notes: `"La coalition arc-en-ciel" : sous le gouvernement Verhofstadt I, la coalition se compose de partis issus de l'ensemble du paysage politique, dont le parti Ecolo et son pendant néerlandais Agalev (aujourd'hui Groen).`
+            notes: `Le gouvernement du libéral flamand Guy et la coalition « arc-en-ciel » comprennent le Parti Ecolo (francophone) et son pendant néerlandophone Agalev (aujourd’hui Groen), de juin 1999 à juillet 2003. Isabelle Durant est vice-première ministre, chargée des transports et de la mobilité. Magda Aelvoet (puis Jef Tavernier) est ministre de la consommation, de la santé publique et de l’environnement. Oliver Deleuze est secrétaire d’État à l’énergie et au développement durable, Eddy Boutmans, à la coopération et au développement. Les écologistes quittent la majorité avant les élections législatives de 2003.`
         },
         "ESP": {
             statut: 1,
@@ -1045,10 +1045,10 @@ export const data = {
         },
         "LVA": {
             statut: 4,
-            notes: `Indulis Emsis, familier de l'exécutif letton, est nommé premier ministre. Il est le premier chef de gouvernement écologiste européen.`,
+            notes: `Premier ministre de mars à décembre 2004, Indulis Emsis est le premier chef de gouvernement écologiste d’Europe.`,
             split: true,
             statut2: 3,
-            notes2: `Après plusieurs années d'absence, le parti vert  se voit de nouveau attribuer le portefeuille de l'Environnement. C'est Raimonds Vējonis qui est nommé au gouvernement de Einars Repše. Jusqu'en 2009, il conserve ce ministère et est l'un des seuls Verts au sein de l'exécutif. A partir de 2009 et jusqu'en 2011, si le LZP ne compte plus de membres au gouvernement, l'Union des Verts et des Agriculteurs (ZZS) occupe de nombreux postes - dans le deuxième gouvernement de centre-droit de Dombrovskis (2010-2011), sept des quinze ministres sont de ZZS. Depuis 2002, cette liste commune avec l'Union des Agriculteurs permet aux Verts d'occuper une place plus importante dans le paysage politique letton.`
+            notes2: `En 2002, le parti vert revient avec plusieurs postes dans le gouvernement dirigé par Einars Repše. Raimonds Vējonis est ministre de l’environnement jusqu’en 2009. De 2009 à 2011, le LZP ne compte plus de ministre, mais l’Union des verts et des agriculteurs (ZZS), à laquelle il appartient occupe de nombreux postes.`
         },
         "FIN": {
             statut: 1,
@@ -1060,7 +1060,7 @@ export const data = {
         },
         "DEU": {
             statut: 3,
-            notes: `"Die röt-grüne Bundesregierung" : Gerhard Schröder devient chancelier fédéral avec une alliance SPD-Les Verts`
+            notes: `Chancelier d’octobre 1998 à novembre 2005 à la tête d’une coalition rouge-verte, le social-démocrate Gerhard Schröder prend pour vice-chancelier et ministre des affaires étrangères Joschka Fischer, des Verts. Autres responsables des Grünen, Jürgen Trittin est ministre de l’environnement et Andrea Fischer ministre de la santé (jusqu’en 2001).`
         },
         "BEL": {
             statut: 1,
@@ -1068,7 +1068,7 @@ export const data = {
         },
         "ESP": {
             statut: 2,
-            notes: `En 2004, le nouveau chef du gouvernement José Luis Rodriguez Zapatero, membre du PSOE, forme un exécutif social-démocrate soutenu par le parti écologiste catalan Iniciativa per Catalunya Verds (ICV). En 2008, le parti refuse de réitérer son support à l'investiture de Zapatero, en désaccord avec son programme politique.`
+            notes: `En avril 2004, le nouveau chef du gouvernement José Luis Rodriguez Zapatero, chef du PSOE, forme un exécutif social-démocrate soutenu sans participation au gouvernement par le parti écologiste catalan Iniciativa per Catalunya Verds (ICV). En 2008, le parti refuse de réitérer ce soutien.`
         },
         "IRL": {
             statut: 1,
@@ -1122,7 +1122,7 @@ export const data = {
         },
         "LVA": {
             statut: 3,
-            notes: `Après plusieurs années d'absence, le parti vert  se voit de nouveau attribuer le portefeuille de l'Environnement. C'est Raimonds Vējonis qui est nommé au gouvernement de Einars Repše. Jusqu'en 2009, il conserve ce ministère et est l'un des seuls Verts au sein de l'exécutif. A partir de 2009 et jusqu'en 2011, si le LZP ne compte plus de membres au gouvernement, l'Union des Verts et des Agriculteurs (ZZS) occupe de nombreux postes - dans le deuxième gouvernement de centre-droit de Dombrovskis (2010-2011), sept des quinze ministres sont de ZZS. Depuis 2002, cette liste commune avec l'Union des Agriculteurs permet aux Verts d'occuper une place plus importante dans le paysage politique letton.`
+            notes: `En 2002, le parti vert revient avec plusieurs postes dans le gouvernement dirigé par Einars Repše. Raimonds Vējonis est ministre de l’environnement jusqu’en 2009. De 2009 à 2011, le LZP ne compte plus de ministre, mais l’Union des verts et des agriculteurs (ZZS), à laquelle il appartient occupe de nombreux postes.`
         },
         "FIN": {
             statut: 1,
@@ -1134,7 +1134,7 @@ export const data = {
         },
         "DEU": {
             statut: 3,
-            notes: `"Die röt-grüne Bundesregierung" : Gerhard Schröder devient chancelier fédéral avec une alliance SPD-Les Verts`
+            notes: `Chancelier d’octobre 1998 à novembre 2005 à la tête d’une coalition rouge-verte, le social-démocrate Gerhard Schröder prend pour vice-chancelier et ministre des affaires étrangères Joschka Fischer, des Verts. Autres responsables des Grünen, Jürgen Trittin est ministre de l’environnement et Andrea Fischer ministre de la santé (jusqu’en 2001).`
         },
         "BEL": {
             statut: 1,
@@ -1142,7 +1142,7 @@ export const data = {
         },
         "ESP": {
             statut: 2,
-            notes: `En 2004, le nouveau chef du gouvernement José Luis Rodriguez Zapatero, membre du PSOE, forme un exécutif social-démocrate soutenu par le parti écologiste catalan Iniciativa per Catalunya Verds (ICV). En 2008, le parti refuse de réitérer son support à l'investiture de Zapatero, en désaccord avec son programme politique.`
+            notes: `En avril 2004, le nouveau chef du gouvernement José Luis Rodriguez Zapatero, chef du PSOE, forme un exécutif social-démocrate soutenu sans participation au gouvernement par le parti écologiste catalan Iniciativa per Catalunya Verds (ICV). En 2008, le parti refuse de réitérer ce soutien.`
         },
         "IRL": {
             statut: 1,
@@ -1196,7 +1196,7 @@ export const data = {
         },
         "LVA": {
             statut: 3,
-            notes: `Après plusieurs années d'absence, le parti vert  se voit de nouveau attribuer le portefeuille de l'Environnement. C'est Raimonds Vējonis qui est nommé au gouvernement de Einars Repše. Jusqu'en 2009, il conserve ce ministère et est l'un des seuls Verts au sein de l'exécutif. A partir de 2009 et jusqu'en 2011, si le LZP ne compte plus de membres au gouvernement, l'Union des Verts et des Agriculteurs (ZZS) occupe de nombreux postes - dans le deuxième gouvernement de centre-droit de Dombrovskis (2010-2011), sept des quinze ministres sont de ZZS. Depuis 2002, cette liste commune avec l'Union des Agriculteurs permet aux Verts d'occuper une place plus importante dans le paysage politique letton.`
+            notes: `En 2002, le parti vert revient avec plusieurs postes dans le gouvernement dirigé par Einars Repše. Raimonds Vējonis est ministre de l’environnement jusqu’en 2009. De 2009 à 2011, le LZP ne compte plus de ministre, mais l’Union des verts et des agriculteurs (ZZS), à laquelle il appartient occupe de nombreux postes.`
         },
         "FIN": {
             statut: 1,
@@ -1204,7 +1204,7 @@ export const data = {
         },
         "ITA": {
             statut: 3,
-            notes: `Romano Prodi est nommé à nouveau premier ministre et marque le retour de l'Olivier. Le portefeuille de l'Environnement est cédé à un écologiste, Alfonso Pecoraro Scanio. En 2008, c'est la fin de la coalition de centre-gauche, qui se dissout dans le parti démocratie italien.`
+            notes: `De nouveau premier ministre de mai 2006 à août 2008, Romano Prodi confie le portefeuille de l’environnement à Alfonso Pecoraro Scanio.`
         },
         "DEU": {
             statut: 1,
@@ -1216,7 +1216,7 @@ export const data = {
         },
         "ESP": {
             statut: 2,
-            notes: `En 2004, le nouveau chef du gouvernement José Luis Rodriguez Zapatero, membre du PSOE, forme un exécutif social-démocrate soutenu par le parti écologiste catalan Iniciativa per Catalunya Verds (ICV). En 2008, le parti refuse de réitérer son support à l'investiture de Zapatero, en désaccord avec son programme politique.`
+            notes: `En avril 2004, le nouveau chef du gouvernement José Luis Rodriguez Zapatero, chef du PSOE, forme un exécutif social-démocrate soutenu sans participation au gouvernement par le parti écologiste catalan Iniciativa per Catalunya Verds (ICV). En 2008, le parti refuse de réitérer ce soutien.`
         },
         "IRL": {
             statut: 1,
@@ -1270,15 +1270,15 @@ export const data = {
         },
         "LVA": {
             statut: 3,
-            notes: `Après plusieurs années d'absence, le parti vert  se voit de nouveau attribuer le portefeuille de l'Environnement. C'est Raimonds Vējonis qui est nommé au gouvernement de Einars Repše. Jusqu'en 2009, il conserve ce ministère et est l'un des seuls Verts au sein de l'exécutif. A partir de 2009 et jusqu'en 2011, si le LZP ne compte plus de membres au gouvernement, l'Union des Verts et des Agriculteurs (ZZS) occupe de nombreux postes - dans le deuxième gouvernement de centre-droit de Dombrovskis (2010-2011), sept des quinze ministres sont de ZZS. Depuis 2002, cette liste commune avec l'Union des Agriculteurs permet aux Verts d'occuper une place plus importante dans le paysage politique letton.`
+            notes: `En 2002, le parti vert revient avec plusieurs postes dans le gouvernement dirigé par Einars Repše. Raimonds Vējonis est ministre de l’environnement jusqu’en 2009. De 2009 à 2011, le LZP ne compte plus de ministre, mais l’Union des verts et des agriculteurs (ZZS), à laquelle il appartient occupe de nombreux postes.`
         },
         "FIN": {
             statut: 3,
-            notes: `Redevenus partis de la majorité au Parlement, les Verts finlandais font également leur retour au gouvernement. Sous Matti Vanhanen puis Mari Kiviniemi, les ministres de la Ligue se succèdent. Tarja Cronberg est ministre du Travail pendant deux ans, avant de quitter le parti et de céder son poste à  Anni Sinnemäki, nouvelle présidente de la Ligue verte. Tuija Brax est ministre de la Justice jusqu'en 2011.`
+            notes: `Les premiers ministres libéraux Matti Vanhanen puis Mari Kiviniemi s’allient au centre, à la droite et aux Verts. Tarja Cronberg est ministre du travail pendant deux ans, avant de quitter le parti et de céder son poste à Anni Sinnemäki, nouvelle présidente de la Ligue verte. Tuija Brax est ministre de la Justice jusqu’en juin 2011.`
         },
         "ITA": {
             statut: 3,
-            notes: `Romano Prodi est nommé à nouveau premier ministre et marque le retour de l'Olivier. Le portefeuille de l'Environnement est cédé à un écologiste, Alfonso Pecoraro Scanio. En 2008, c'est la fin de la coalition de centre-gauche, qui se dissout dans le parti démocratie italien.`
+            notes: `De nouveau premier ministre de mai 2006 à août 2008, Romano Prodi confie le portefeuille de l’environnement à Alfonso Pecoraro Scanio.`
         },
         "DEU": {
             statut: 1,
@@ -1290,15 +1290,15 @@ export const data = {
         },
         "ESP": {
             statut: 2,
-            notes: `En 2004, le nouveau chef du gouvernement José Luis Rodriguez Zapatero, membre du PSOE, forme un exécutif social-démocrate soutenu par le parti écologiste catalan Iniciativa per Catalunya Verds (ICV). En 2008, le parti refuse de réitérer son support à l'investiture de Zapatero, en désaccord avec son programme politique.`
+            notes: `En avril 2004, le nouveau chef du gouvernement José Luis Rodriguez Zapatero, chef du PSOE, forme un exécutif social-démocrate soutenu sans participation au gouvernement par le parti écologiste catalan Iniciativa per Catalunya Verds (ICV). En 2008, le parti refuse de réitérer ce soutien.`
         },
         "IRL": {
             statut: 3,
-            notes: `En 2007, les Verts irlandais entrent pour la première fois au gouvernement, dans une coalition dirigée par Fianna Fáil. John Gormley est ministre de l'Environnement, de l'Administration locale et du Patrimoine. Eamon Ryan de la Communication, de l'Énergie et des Ressources naturelles, et quatre écologistes se succèdéront aux ministères d'État - équivalent des ministres délégués français. En 2011, les Verts se désengagent de la coalition suite à des désaccords politiques, et une nouvelle élection a lieu.`
+            notes: `De juin 2007 à mars 2011, le Parti Vert entre pour la première fois au gouvernement, dirigé par Bertie Ahern, du Fianna Fáil. John Gormley est ministre de l’environnement, de l’administration locale et du Patrimoine. Eamon Ryan de la communication, de l’énergie et des ressources naturelles. Quatre écologistes occupent des ministères d’État – équivalent des ministres délégués français.`
         },
         "CZE": {
             statut: 3,
-            notes: `Les écologistes tchèques sont appelés à rejoindre le deuxième gouvernement de  Mirek Topolánek, pour former une coalition avec le parti démocrate-chrétien et le parti libéral-conservateur. Lorque  Jana Fischera, membre du parti communiste, est nommé premier ministre, les Verts font à nouveau partie de son gouvernement.`
+            notes: `De janvier 2007 à mai 2009, les écologistes tchèques rejoignent le deuxième gouvernement du libéral Mirek Topolánek, en coalition avec le parti démocrate-chrétien et le parti libéral-conservateur. Vice-président du gouvernement, Martin Bursík est ministre de l’environnement, Dana Kuchtová est ministre de l’éducation, Džamila Stehlíková ministre des droits de la personne.`
         },
         "ISL": {
             statut: 1,
@@ -1344,15 +1344,15 @@ export const data = {
         },
         "LVA": {
             statut: 3,
-            notes: `Après plusieurs années d'absence, le parti vert  se voit de nouveau attribuer le portefeuille de l'Environnement. C'est Raimonds Vējonis qui est nommé au gouvernement de Einars Repše. Jusqu'en 2009, il conserve ce ministère et est l'un des seuls Verts au sein de l'exécutif. A partir de 2009 et jusqu'en 2011, si le LZP ne compte plus de membres au gouvernement, l'Union des Verts et des Agriculteurs (ZZS) occupe de nombreux postes - dans le deuxième gouvernement de centre-droit de Dombrovskis (2010-2011), sept des quinze ministres sont de ZZS. Depuis 2002, cette liste commune avec l'Union des Agriculteurs permet aux Verts d'occuper une place plus importante dans le paysage politique letton.`
+            notes: `En 2002, le parti vert revient avec plusieurs postes dans le gouvernement dirigé par Einars Repše. Raimonds Vējonis est ministre de l’environnement jusqu’en 2009. De 2009 à 2011, le LZP ne compte plus de ministre, mais l’Union des verts et des agriculteurs (ZZS), à laquelle il appartient occupe de nombreux postes.`
         },
         "FIN": {
             statut: 3,
-            notes: `Redevenus partis de la majorité au Parlement, les Verts finlandais font également leur retour au gouvernement. Sous Matti Vanhanen puis Mari Kiviniemi, les ministres de la Ligue se succèdent. Tarja Cronberg est ministre du Travail pendant deux ans, avant de quitter le parti et de céder son poste à  Anni Sinnemäki, nouvelle présidente de la Ligue verte. Tuija Brax est ministre de la Justice jusqu'en 2011.`
+            notes: `Les premiers ministres libéraux Matti Vanhanen puis Mari Kiviniemi s’allient au centre, à la droite et aux Verts. Tarja Cronberg est ministre du travail pendant deux ans, avant de quitter le parti et de céder son poste à Anni Sinnemäki, nouvelle présidente de la Ligue verte. Tuija Brax est ministre de la Justice jusqu’en juin 2011.`
         },
         "ITA": {
             statut: 3,
-            notes: `Romano Prodi est nommé à nouveau premier ministre et marque le retour de l'Olivier. Le portefeuille de l'Environnement est cédé à un écologiste, Alfonso Pecoraro Scanio. En 2008, c'est la fin de la coalition de centre-gauche, qui se dissout dans le parti démocratie italien.`
+            notes: `De nouveau premier ministre de mai 2006 à août 2008, Romano Prodi confie le portefeuille de l’environnement à Alfonso Pecoraro Scanio.`
         },
         "DEU": {
             statut: 1,
@@ -1364,15 +1364,15 @@ export const data = {
         },
         "ESP": {
             statut: 2,
-            notes: `En 2004, le nouveau chef du gouvernement José Luis Rodriguez Zapatero, membre du PSOE, forme un exécutif social-démocrate soutenu par le parti écologiste catalan Iniciativa per Catalunya Verds (ICV). En 2008, le parti refuse de réitérer son support à l'investiture de Zapatero, en désaccord avec son programme politique.`
+            notes: `En avril 2004, le nouveau chef du gouvernement José Luis Rodriguez Zapatero, chef du PSOE, forme un exécutif social-démocrate soutenu sans participation au gouvernement par le parti écologiste catalan Iniciativa per Catalunya Verds (ICV). En 2008, le parti refuse de réitérer ce soutien.`
         },
         "IRL": {
             statut: 3,
-            notes: `En 2007, les Verts irlandais entrent pour la première fois au gouvernement, dans une coalition dirigée par Fianna Fáil. John Gormley est ministre de l'Environnement, de l'Administration locale et du Patrimoine. Eamon Ryan de la Communication, de l'Énergie et des Ressources naturelles, et quatre écologistes se succèdéront aux ministères d'État - équivalent des ministres délégués français. En 2011, les Verts se désengagent de la coalition suite à des désaccords politiques, et une nouvelle élection a lieu.`
+            notes: `De juin 2007 à mars 2011, le Parti Vert entre pour la première fois au gouvernement, dirigé par Bertie Ahern, du Fianna Fáil. John Gormley est ministre de l’environnement, de l’administration locale et du Patrimoine. Eamon Ryan de la communication, de l’énergie et des ressources naturelles. Quatre écologistes occupent des ministères d’État – équivalent des ministres délégués français.`
         },
         "CZE": {
             statut: 3,
-            notes: `Les écologistes tchèques sont appelés à rejoindre le deuxième gouvernement de  Mirek Topolánek, pour former une coalition avec le parti démocrate-chrétien et le parti libéral-conservateur. Lorque  Jana Fischera, membre du parti communiste, est nommé premier ministre, les Verts font à nouveau partie de son gouvernement.`
+            notes: `De janvier 2007 à mai 2009, les écologistes tchèques rejoignent le deuxième gouvernement du libéral Mirek Topolánek, en coalition avec le parti démocrate-chrétien et le parti libéral-conservateur. Vice-président du gouvernement, Martin Bursík est ministre de l’environnement, Dana Kuchtová est ministre de l’éducation, Džamila Stehlíková ministre des droits de la personne.`
         },
         "ISL": {
             statut: 1,
@@ -1418,11 +1418,11 @@ export const data = {
         },
         "LVA": {
             statut: 3,
-            notes: `Après plusieurs années d'absence, le parti vert  se voit de nouveau attribuer le portefeuille de l'Environnement. C'est Raimonds Vējonis qui est nommé au gouvernement de Einars Repše. Jusqu'en 2009, il conserve ce ministère et est l'un des seuls Verts au sein de l'exécutif. A partir de 2009 et jusqu'en 2011, si le LZP ne compte plus de membres au gouvernement, l'Union des Verts et des Agriculteurs (ZZS) occupe de nombreux postes - dans le deuxième gouvernement de centre-droit de Dombrovskis (2010-2011), sept des quinze ministres sont de ZZS. Depuis 2002, cette liste commune avec l'Union des Agriculteurs permet aux Verts d'occuper une place plus importante dans le paysage politique letton.`
+            notes: `En 2002, le parti vert revient avec plusieurs postes dans le gouvernement dirigé par Einars Repše. Raimonds Vējonis est ministre de l’environnement jusqu’en 2009. De 2009 à 2011, le LZP ne compte plus de ministre, mais l’Union des verts et des agriculteurs (ZZS), à laquelle il appartient occupe de nombreux postes.`
         },
         "FIN": {
             statut: 3,
-            notes: `Redevenus partis de la majorité au Parlement, les Verts finlandais font également leur retour au gouvernement. Sous Matti Vanhanen puis Mari Kiviniemi, les ministres de la Ligue se succèdent. Tarja Cronberg est ministre du Travail pendant deux ans, avant de quitter le parti et de céder son poste à  Anni Sinnemäki, nouvelle présidente de la Ligue verte. Tuija Brax est ministre de la Justice jusqu'en 2011.`
+            notes: `Les premiers ministres libéraux Matti Vanhanen puis Mari Kiviniemi s’allient au centre, à la droite et aux Verts. Tarja Cronberg est ministre du travail pendant deux ans, avant de quitter le parti et de céder son poste à Anni Sinnemäki, nouvelle présidente de la Ligue verte. Tuija Brax est ministre de la Justice jusqu’en juin 2011.`
         },
         "ITA": {
             statut: 1,
@@ -1442,15 +1442,15 @@ export const data = {
         },
         "IRL": {
             statut: 3,
-            notes: `En 2007, les Verts irlandais entrent pour la première fois au gouvernement, dans une coalition dirigée par Fianna Fáil. John Gormley est ministre de l'Environnement, de l'Administration locale et du Patrimoine. Eamon Ryan de la Communication, de l'Énergie et des Ressources naturelles, et quatre écologistes se succèdéront aux ministères d'État - équivalent des ministres délégués français. En 2011, les Verts se désengagent de la coalition suite à des désaccords politiques, et une nouvelle élection a lieu.`
+            notes: `De juin 2007 à mars 2011, le Parti Vert entre pour la première fois au gouvernement, dirigé par Bertie Ahern, du Fianna Fáil. John Gormley est ministre de l’environnement, de l’administration locale et du Patrimoine. Eamon Ryan de la communication, de l’énergie et des ressources naturelles. Quatre écologistes occupent des ministères d’État – équivalent des ministres délégués français.`
         },
         "CZE": {
             statut: 3,
-            notes: `Les écologistes tchèques sont appelés à rejoindre le deuxième gouvernement de  Mirek Topolánek, pour former une coalition avec le parti démocrate-chrétien et le parti libéral-conservateur. Lorque  Jana Fischera, membre du parti communiste, est nommé premier ministre, les Verts font à nouveau partie de son gouvernement.`
+            notes: `De janvier 2007 à mai 2009, les écologistes tchèques rejoignent le deuxième gouvernement du libéral Mirek Topolánek, en coalition avec le parti démocrate-chrétien et le parti libéral-conservateur. Vice-président du gouvernement, Martin Bursík est ministre de l’environnement, Dana Kuchtová est ministre de l’éducation, Džamila Stehlíková ministre des droits de la personne.`
         },
         "ISL": {
             statut: 3,
-            notes: `Au sein des deux cabinets de Jóhanna Sigurðardóttir, première ministre islandaise de 2009 à 2013, le Parti Social-démocrate partage le gouvernement au sein d'une coalition avec le Mouvement Vert et de Gauche. L'actuelle première ministre, Katrín Jakobsdóttir, est ministre de l'Education, des Sciences et de la Culture. On retrouve également Kolbrún Halldórsdóttir à l'Environnement, Ögmundur Jónasson à la Santé et Steingrímur J. Sigfússon aux Finances ainsi qu'à la Pêche et à l'Agriculture.`
+            notes: `Première ministre islandaise de février 2009 à mai 2013, la sociale-démocrate Jóhanna Sigurðardóttir dirige une coalition avec le Mouvement Vert et de Gauche. Steingrímur J. Sigfússon est ministre des finances, Katrín Jakobsdóttir de l’éducation, Kolbrún Halldórsdóttir (puis Svandís Svavarsdóttir) de l’environnement et Ögmundur Jónasson de la santé.`
         },
         "DNK": {
             statut: 1,
@@ -1492,11 +1492,11 @@ export const data = {
         },
         "LVA": {
             statut: 3,
-            notes: `Après plusieurs années d'absence, le parti vert  se voit de nouveau attribuer le portefeuille de l'Environnement. C'est Raimonds Vējonis qui est nommé au gouvernement de Einars Repše. Jusqu'en 2009, il conserve ce ministère et est l'un des seuls Verts au sein de l'exécutif. A partir de 2009 et jusqu'en 2011, si le LZP ne compte plus de membres au gouvernement, l'Union des Verts et des Agriculteurs (ZZS) occupe de nombreux postes - dans le deuxième gouvernement de centre-droit de Dombrovskis (2010-2011), sept des quinze ministres sont de ZZS. Depuis 2002, cette liste commune avec l'Union des Agriculteurs permet aux Verts d'occuper une place plus importante dans le paysage politique letton.`
+            notes: `En 2002, le parti vert revient avec plusieurs postes dans le gouvernement dirigé par Einars Repše. Raimonds Vējonis est ministre de l’environnement jusqu’en 2009. De 2009 à 2011, le LZP ne compte plus de ministre, mais l’Union des verts et des agriculteurs (ZZS), à laquelle il appartient occupe de nombreux postes.`
         },
         "FIN": {
             statut: 3,
-            notes: `Redevenus partis de la majorité au Parlement, les Verts finlandais font également leur retour au gouvernement. Sous Matti Vanhanen puis Mari Kiviniemi, les ministres de la Ligue se succèdent. Tarja Cronberg est ministre du Travail pendant deux ans, avant de quitter le parti et de céder son poste à  Anni Sinnemäki, nouvelle présidente de la Ligue verte. Tuija Brax est ministre de la Justice jusqu'en 2011.`
+            notes: `Les premiers ministres libéraux Matti Vanhanen puis Mari Kiviniemi s’allient au centre, à la droite et aux Verts. Tarja Cronberg est ministre du travail pendant deux ans, avant de quitter le parti et de céder son poste à Anni Sinnemäki, nouvelle présidente de la Ligue verte. Tuija Brax est ministre de la Justice jusqu’en juin 2011.`
         },
         "ITA": {
             statut: 1,
@@ -1516,15 +1516,15 @@ export const data = {
         },
         "IRL": {
             statut: 3,
-            notes: `En 2007, les Verts irlandais entrent pour la première fois au gouvernement, dans une coalition dirigée par Fianna Fáil. John Gormley est ministre de l'Environnement, de l'Administration locale et du Patrimoine. Eamon Ryan de la Communication, de l'Énergie et des Ressources naturelles, et quatre écologistes se succèdéront aux ministères d'État - équivalent des ministres délégués français. En 2011, les Verts se désengagent de la coalition suite à des désaccords politiques, et une nouvelle élection a lieu.`
+            notes: `De juin 2007 à mars 2011, le Parti Vert entre pour la première fois au gouvernement, dirigé par Bertie Ahern, du Fianna Fáil. John Gormley est ministre de l’environnement, de l’administration locale et du Patrimoine. Eamon Ryan de la communication, de l’énergie et des ressources naturelles. Quatre écologistes occupent des ministères d’État – équivalent des ministres délégués français.`
         },
         "CZE": {
-            statut: 3,
-            notes: `Les écologistes tchèques sont appelés à rejoindre le deuxième gouvernement de  Mirek Topolánek, pour former une coalition avec le parti démocrate-chrétien et le parti libéral-conservateur. Lorque  Jana Fischera, membre du parti communiste, est nommé premier ministre, les Verts font à nouveau partie de son gouvernement.`
+            statut: 2,
+            notes: `De mai 2009 à juillet 2010, le parti Vert soutient le gouvernement « indépendant » de Jan Fisher, sans participation.`
         },
         "ISL": {
             statut: 3,
-            notes: `Au sein des deux cabinets de Jóhanna Sigurðardóttir, première ministre islandaise de 2009 à 2013, le Parti Social-démocrate partage le gouvernement au sein d'une coalition avec le Mouvement Vert et de Gauche. L'actuelle première ministre, Katrín Jakobsdóttir, est ministre de l'Education, des Sciences et de la Culture. On retrouve également Kolbrún Halldórsdóttir à l'Environnement, Ögmundur Jónasson à la Santé et Steingrímur J. Sigfússon aux Finances ainsi qu'à la Pêche et à l'Agriculture.`
+            notes: `Première ministre islandaise de février 2009 à mai 2013, la sociale-démocrate Jóhanna Sigurðardóttir dirige une coalition avec le Mouvement Vert et de Gauche. Steingrímur J. Sigfússon est ministre des finances, Katrín Jakobsdóttir de l’éducation, Kolbrún Halldórsdóttir (puis Svandís Svavarsdóttir) de l’environnement et Ögmundur Jónasson de la santé.`
         },
         "DNK": {
             statut: 1,
@@ -1566,11 +1566,11 @@ export const data = {
         },
         "LVA": {
             statut: 3,
-            notes: `Après plusieurs années d'absence, le parti vert  se voit de nouveau attribuer le portefeuille de l'Environnement. C'est Raimonds Vējonis qui est nommé au gouvernement de Einars Repše. Jusqu'en 2009, il conserve ce ministère et est l'un des seuls Verts au sein de l'exécutif. A partir de 2009 et jusqu'en 2011, si le LZP ne compte plus de membres au gouvernement, l'Union des Verts et des Agriculteurs (ZZS) occupe de nombreux postes - dans le deuxième gouvernement de centre-droit de Dombrovskis (2010-2011), sept des quinze ministres sont de ZZS. Depuis 2002, cette liste commune avec l'Union des Agriculteurs permet aux Verts d'occuper une place plus importante dans le paysage politique letton.`
+            notes: `En 2002, le parti vert revient avec plusieurs postes dans le gouvernement dirigé par Einars Repše. Raimonds Vējonis est ministre de l’environnement jusqu’en 2009. De 2009 à 2011, le LZP ne compte plus de ministre, mais l’Union des verts et des agriculteurs (ZZS), à laquelle il appartient occupe de nombreux postes.`
         },
         "FIN": {
             statut: 3,
-            notes: `Le conservateur Jyrki Katainen est nommé à la tête du gouvernement, et prolongent la présence de la Ligue verte au sein de l'exécutif. Heidi Hautala est ministre du Développement jusqu'en 2013, et Pekka Haavisto est une deuxième fois ministre en reprenant son portefeuille. Ville Niinistö est à l'Environnement. Les écologistes finlandais sont à nouveau aux prises avec la coalition en 2014 au sujet du nucléaire, et décident de quitter la majorité en signe de protestation.`
+            notes: `Nommé à la tête d’une coalition alliant gauche social-démocrate (SDP), écologistes et droite, le conservateur Jyrki Katainen dirige le gouvernement de juin 2011 à juin 2014. Heidi Hautala, du Vihr, est ministre du développement international jusqu’en 2013, date à laquelle Pekka Haavisto reprend son portefeuille. Ville Niinistö est ministre de l’environnement.`
         },
         "ITA": {
             statut: 1,
@@ -1590,7 +1590,7 @@ export const data = {
         },
         "IRL": {
             statut: 3,
-            notes: `En 2007, les Verts irlandais entrent pour la première fois au gouvernement, dans une coalition dirigée par Fianna Fáil. John Gormley est ministre de l'Environnement, de l'Administration locale et du Patrimoine. Eamon Ryan de la Communication, de l'Énergie et des Ressources naturelles, et quatre écologistes se succèdéront aux ministères d'État - équivalent des ministres délégués français. En 2011, les Verts se désengagent de la coalition suite à des désaccords politiques, et une nouvelle élection a lieu.`
+            notes: `De juin 2007 à mars 2011, le Parti Vert entre pour la première fois au gouvernement, dirigé par Bertie Ahern, du Fianna Fáil. John Gormley est ministre de l’environnement, de l’administration locale et du Patrimoine. Eamon Ryan de la communication, de l’énergie et des ressources naturelles. Quatre écologistes occupent des ministères d’État – équivalent des ministres délégués français.`
         },
         "CZE": {
             statut: 1,
@@ -1598,11 +1598,11 @@ export const data = {
         },
         "ISL": {
             statut: 3,
-            notes: `Au sein des deux cabinets de Jóhanna Sigurðardóttir, première ministre islandaise de 2009 à 2013, le Parti Social-démocrate partage le gouvernement au sein d'une coalition avec le Mouvement Vert et de Gauche. L'actuelle première ministre, Katrín Jakobsdóttir, est ministre de l'Education, des Sciences et de la Culture. On retrouve également Kolbrún Halldórsdóttir à l'Environnement, Ögmundur Jónasson à la Santé et Steingrímur J. Sigfússon aux Finances ainsi qu'à la Pêche et à l'Agriculture.`
+            notes: `Première ministre islandaise de février 2009 à mai 2013, la sociale-démocrate Jóhanna Sigurðardóttir dirige une coalition avec le Mouvement Vert et de Gauche. Steingrímur J. Sigfússon est ministre des finances, Katrín Jakobsdóttir de l’éducation, Kolbrún Halldórsdóttir (puis Svandís Svavarsdóttir) de l’environnement et Ögmundur Jónasson de la santé.`
         },
         "DNK": {
             statut: 3,
-            notes: `Sous la première ministre Helle Thorning-Schmidt, le parti populaire socialiste (SF) fait son entrée au gouvernement danois, dans une coalition avec le parti social-démocrate et le parti social-libéral.`
+            notes: `Première ministre sociale-démocrate d’octobre 2011 à juin 2015, Helle Thorning-Schmidt dirige une coalition avec le parti social-libéral et le parti populaire socialiste (SF), au programme écosocialiste. L’écologiste Villy Søvndal est ministre des affaires étrangères, Thor Möger Pedersen, ministre des affaires fiscales, Ole Sohn du commerce et de la croissance. Pia Olser Dyhr au commerce extérieur, Astrid Krag à la santé et Ida Auken à l’environnement.`
         },
         "LUX": {
             statut: 1,
@@ -1636,7 +1636,7 @@ export const data = {
     2012: {
         "FRA": {
             statut: 3,
-            notes: `Après une décennie d'opposition, les écologistes reviennent au gouvernement sous un nouveau nom - Les Verts sont devenus Europe Écologie Les Verts en 2012. C'est au sein des deux gouvernements de Jean-Marc Ayrault que Cécile Duflot devient ministre de l'Égalité des territoires et du Logement. Pascal Canfin est ministre délégué au Développement durant ces deux mandats. En 2014, les Verts refusent d'intégrer le gouvernement de Manuel Valls.`,
+            notes: `Après la victoire de François Hollande (parti socialiste), deux ministres d’Europe Écologie-Les Verts (EÉLV) siègent dans les gouvernements de Jean-Marc Ayrault, de mai 2012 à mars 2014. Cécile Duflot devient ministre de l’égalité des territoires et du Logement. Pascal Canfin est ministre délégué au développement. En mars 2014, les Verts refusent d’intégrer le gouvernement de Manuel Valls.`,
         },
         "LVA": {
             statut: 1,
@@ -1644,7 +1644,7 @@ export const data = {
         },
         "FIN": {
             statut: 3,
-            notes: `Le conservateur Jyrki Katainen est nommé à la tête du gouvernement, et prolongent la présence de la Ligue verte au sein de l'exécutif. Heidi Hautala est ministre du Développement jusqu'en 2013, et Pekka Haavisto est une deuxième fois ministre en reprenant son portefeuille. Ville Niinistö est à l'Environnement. Les écologistes finlandais sont à nouveau aux prises avec la coalition en 2014 au sujet du nucléaire, et décident de quitter la majorité en signe de protestation.`
+            notes: `Nommé à la tête d’une coalition alliant gauche social-démocrate (SDP), écologistes et droite, le conservateur Jyrki Katainen dirige le gouvernement de juin 2011 à juin 2014. Heidi Hautala, du Vihr, est ministre du développement international jusqu’en 2013, date à laquelle Pekka Haavisto reprend son portefeuille. Ville Niinistö est ministre de l’environnement.`
         },
         "ITA": {
             statut: 1,
@@ -1672,11 +1672,11 @@ export const data = {
         },
         "ISL": {
             statut: 3,
-            notes: `Au sein des deux cabinets de Jóhanna Sigurðardóttir, première ministre islandaise de 2009 à 2013, le Parti Social-démocrate partage le gouvernement au sein d'une coalition avec le Mouvement Vert et de Gauche. L'actuelle première ministre, Katrín Jakobsdóttir, est ministre de l'Education, des Sciences et de la Culture. On retrouve également Kolbrún Halldórsdóttir à l'Environnement, Ögmundur Jónasson à la Santé et Steingrímur J. Sigfússon aux Finances ainsi qu'à la Pêche et à l'Agriculture.`
+            notes: `Première ministre islandaise de février 2009 à mai 2013, la sociale-démocrate Jóhanna Sigurðardóttir dirige une coalition avec le Mouvement Vert et de Gauche. Steingrímur J. Sigfússon est ministre des finances, Katrín Jakobsdóttir de l’éducation, Kolbrún Halldórsdóttir (puis Svandís Svavarsdóttir) de l’environnement et Ögmundur Jónasson de la santé.`
         },
         "DNK": {
             statut: 3,
-            notes: `Sous la première ministre Helle Thorning-Schmidt, le parti populaire socialiste (SF) fait son entrée au gouvernement danois, dans une coalition avec le parti social-démocrate et le parti social-libéral.`
+            notes: `Première ministre sociale-démocrate d’octobre 2011 à juin 2015, Helle Thorning-Schmidt dirige une coalition avec le parti social-libéral et le parti populaire socialiste (SF), au programme écosocialiste. L’écologiste Villy Søvndal est ministre des affaires étrangères, Thor Möger Pedersen, ministre des affaires fiscales, Ole Sohn du commerce et de la croissance. Pia Olser Dyhr au commerce extérieur, Astrid Krag à la santé et Ida Auken à l’environnement.`
         },
         "LUX": {
             statut: 1,
@@ -1710,7 +1710,7 @@ export const data = {
     2013: {
         "FRA": {
             statut: 3,
-            notes: `Après une décennie d'opposition, les écologistes reviennent au gouvernement sous un nouveau nom - Les Verts sont devenus Europe Écologie Les Verts en 2012. C'est au sein des deux gouvernements de Jean-Marc Ayrault que Cécile Duflot devient ministre de l'Égalité des territoires et du Logement. Pascal Canfin est ministre délégué au Développement durant ces deux mandats. En 2014, les Verts refusent d'intégrer le gouvernement de Manuel Valls.`,
+            notes: `Après la victoire de François Hollande (parti socialiste), deux ministres d’Europe Écologie-Les Verts (EÉLV) siègent dans les gouvernements de Jean-Marc Ayrault, de mai 2012 à mars 2014. Cécile Duflot devient ministre de l’égalité des territoires et du Logement. Pascal Canfin est ministre délégué au développement. En mars 2014, les Verts refusent d’intégrer le gouvernement de Manuel Valls.`,
         },
         "LVA": {
             statut: 1,
@@ -1718,7 +1718,7 @@ export const data = {
         },
         "FIN": {
             statut: 3,
-            notes: `Le conservateur Jyrki Katainen est nommé à la tête du gouvernement, et prolongent la présence de la Ligue verte au sein de l'exécutif. Heidi Hautala est ministre du Développement jusqu'en 2013, et Pekka Haavisto est une deuxième fois ministre en reprenant son portefeuille. Ville Niinistö est à l'Environnement. Les écologistes finlandais sont à nouveau aux prises avec la coalition en 2014 au sujet du nucléaire, et décident de quitter la majorité en signe de protestation.`
+            notes: `Nommé à la tête d’une coalition alliant gauche social-démocrate (SDP), écologistes et droite, le conservateur Jyrki Katainen dirige le gouvernement de juin 2011 à juin 2014. Heidi Hautala, du Vihr, est ministre du développement international jusqu’en 2013, date à laquelle Pekka Haavisto reprend son portefeuille. Ville Niinistö est ministre de l’environnement.`
         },
         "ITA": {
             statut: 1,
@@ -1746,15 +1746,15 @@ export const data = {
         },
         "ISL": {
             statut: 3,
-            notes: `Au sein des deux cabinets de Jóhanna Sigurðardóttir, première ministre islandaise de 2009 à 2013, le Parti Social-démocrate partage le gouvernement au sein d'une coalition avec le Mouvement Vert et de Gauche. L'actuelle première ministre, Katrín Jakobsdóttir, est ministre de l'Education, des Sciences et de la Culture. On retrouve également Kolbrún Halldórsdóttir à l'Environnement, Ögmundur Jónasson à la Santé et Steingrímur J. Sigfússon aux Finances ainsi qu'à la Pêche et à l'Agriculture.`
+            notes: `Première ministre islandaise de février 2009 à mai 2013, la sociale-démocrate Jóhanna Sigurðardóttir dirige une coalition avec le Mouvement Vert et de Gauche. Steingrímur J. Sigfússon est ministre des finances, Katrín Jakobsdóttir de l’éducation, Kolbrún Halldórsdóttir (puis Svandís Svavarsdóttir) de l’environnement et Ögmundur Jónasson de la santé.`
         },
         "DNK": {
             statut: 3,
-            notes: `Sous la première ministre Helle Thorning-Schmidt, le parti populaire socialiste (SF) fait son entrée au gouvernement danois, dans une coalition avec le parti social-démocrate et le parti social-libéral.`
+            notes: `Première ministre sociale-démocrate d’octobre 2011 à juin 2015, Helle Thorning-Schmidt dirige une coalition avec le parti social-libéral et le parti populaire socialiste (SF), au programme écosocialiste. L’écologiste Villy Søvndal est ministre des affaires étrangères, Thor Möger Pedersen, ministre des affaires fiscales, Ole Sohn du commerce et de la croissance. Pia Olser Dyhr au commerce extérieur, Astrid Krag à la santé et Ida Auken à l’environnement.`
         },
         "LUX": {
             statut: 3,
-            notes: `Depuis leur première entrée au gouvernement en 2013, les Gréng - Verts - luxembourgeois n'ont jamais quitté le pouvoir exécutif. Ce sont d'ailleurs les mêmes écologistes qui sont nommés depuis une petite dizaine d'années. Il s'agit des trois gouvernements Bettel/Schneider - Bettel étant le premier ministre et Schneider le vice-premier ministre. François Bausch est actuellement à la Défense, la Mobilité  et la Sécurité intérieure, Carole Dieschbourg à l'Environnement, Claude Turmes à l'Énergie et l'Aménagement du territoire, Henri Kox au Logement et Sam Tanson à la Culture et à la Justice.`
+            notes: `Depuis décembre 2013, le premier ministre libéral Xavier Bettel conduit une coalition avec le parti ouvrier socialiste, le parti démocratique (centre) et les Verts. Félix Braz est ministre de la justice (remplacé par Sam Tanson en 2019), François Bausch du développement durable puis de la défense, Carole Dieschbourg de l’environnement. Claude Turmes est ministre de l’énergie et l’aménagement du territoire à partir de 2018, Henri Kox du logement et la sécurité intérieur à partir de 2019.`
         },
         "SWE": {
             statut: 1,
@@ -1784,15 +1784,15 @@ export const data = {
     2014: {
         "FRA": {
             statut: 3,
-            notes: `Après une décennie d'opposition, les écologistes reviennent au gouvernement sous un nouveau nom - Les Verts sont devenus Europe Écologie Les Verts en 2012. C'est au sein des deux gouvernements de Jean-Marc Ayrault que Cécile Duflot devient ministre de l'Égalité des territoires et du Logement. Pascal Canfin est ministre délégué au Développement durant ces deux mandats. En 2014, les Verts refusent d'intégrer le gouvernement de Manuel Valls.`,
+            notes: `Après la victoire de François Hollande (parti socialiste), deux ministres d’Europe Écologie-Les Verts (EÉLV) siègent dans les gouvernements de Jean-Marc Ayrault, de mai 2012 à mars 2014. Cécile Duflot devient ministre de l’égalité des territoires et du Logement. Pascal Canfin est ministre délégué au développement. En mars 2014, les Verts refusent d’intégrer le gouvernement de Manuel Valls.`,
         },
         "LVA": {
             statut: 3,
-            notes: `L'Union des Verts et des Agriculteurs (ZZS) revient au gouvernement dans celui de la première femme cheffe de gouvernement lettone :  Laimdota Straujuma. Raimonds Vējonis y est ministre de la Défense, et conserve son poste jusqu'à l'élection présidentielle de 2015.  Les Verts étaient présents dans la plupart des gouvernements lettons du XXIe siècle, jusqu'à la formation actuelle - une coalition de droite et de centre-droit.`
+            notes: `L’Union des verts et des agriculteurs (ZZS) revient au pouvoir, dans le gouvernement Laimdota Straujuma, première femme cheffe de gouvernement de ce pays. Raimonds Vējonis est ministre de la défense jusqu’à l’élection présidentielle de 2015.`
         },
         "FIN": {
             statut: 3,
-            notes: `Le conservateur Jyrki Katainen est nommé à la tête du gouvernement, et prolongent la présence de la Ligue verte au sein de l'exécutif. Heidi Hautala est ministre du Développement jusqu'en 2013, et Pekka Haavisto est une deuxième fois ministre en reprenant son portefeuille. Ville Niinistö est à l'Environnement. Les écologistes finlandais sont à nouveau aux prises avec la coalition en 2014 au sujet du nucléaire, et décident de quitter la majorité en signe de protestation.`
+            notes: `Nommé à la tête d’une coalition alliant gauche social-démocrate (SDP), écologistes et droite, le conservateur Jyrki Katainen dirige le gouvernement de juin 2011 à juin 2014. Heidi Hautala, du Vihr, est ministre du développement international jusqu’en 2013, date à laquelle Pekka Haavisto reprend son portefeuille. Ville Niinistö est ministre de l’environnement.`
         },
         "ITA": {
             statut: 1,
@@ -1824,15 +1824,15 @@ export const data = {
         },
         "DNK": {
             statut: 3,
-            notes: `Sous la première ministre Helle Thorning-Schmidt, le parti populaire socialiste (SF) fait son entrée au gouvernement danois, dans une coalition avec le parti social-démocrate et le parti social-libéral.`
+            notes: `Première ministre sociale-démocrate d’octobre 2011 à juin 2015, Helle Thorning-Schmidt dirige une coalition avec le parti social-libéral et le parti populaire socialiste (SF), au programme écosocialiste. L’écologiste Villy Søvndal est ministre des affaires étrangères, Thor Möger Pedersen, ministre des affaires fiscales, Ole Sohn du commerce et de la croissance. Pia Olser Dyhr au commerce extérieur, Astrid Krag à la santé et Ida Auken à l’environnement.`
         },
         "LUX": {
             statut: 3,
-            notes: `Depuis leur première entrée au gouvernement en 2013, les Gréng - Verts - luxembourgeois n'ont jamais quitté le pouvoir exécutif. Ce sont d'ailleurs les mêmes écologistes qui sont nommés depuis une petite dizaine d'années. Il s'agit des trois gouvernements Bettel/Schneider - Bettel étant le premier ministre et Schneider le vice-premier ministre. François Bausch est actuellement à la Défense, la Mobilité  et la Sécurité intérieure, Carole Dieschbourg à l'Environnement, Claude Turmes à l'Énergie et l'Aménagement du territoire, Henri Kox au Logement et Sam Tanson à la Culture et à la Justice.`
+            notes: `Depuis décembre 2013, le premier ministre libéral Xavier Bettel conduit une coalition avec le parti ouvrier socialiste, le parti démocratique (centre) et les Verts. Félix Braz est ministre de la justice (remplacé par Sam Tanson en 2019), François Bausch du développement durable puis de la défense, Carole Dieschbourg de l’environnement. Claude Turmes est ministre de l’énergie et l’aménagement du territoire à partir de 2018, Henri Kox du logement et la sécurité intérieur à partir de 2019.`
         },
         "SWE": {
             statut: 3,
-            notes: `Après plusieurs années de gouvernements de droite, une coalition de gauche se forme en 2014. Le social-démocrate Stefan Löfven compose un exécutif qui intègre le parti des Verts. La porte-parole du parti Åsa Romson est vice-première ministre et ministre du Climat et de l'Environnement. Le gouvernement actuel, remanié en février 2021, compte cinq ministres écologistes.`
+            notes: `D’octobre 2014 à novembre 2021, le social-démocrate Stefán Löfven compose un exécutif qui intègre le parti des Verts. La porte-parole du parti, Åsa Romson, est vice-première ministre et ministre du climat et de l’environnement. Trois autres écologistes intègrent ensuite le gouvernement. En novembre 2021, la sociale-démocrate Magdalena Andersson prend la tête de gouvernement, mais les écologistes le quittent en désaccord avec le budget voté par la droite. Ils soutiennent le gouvernement sans y participer.`
         },
         "PRT": {
             statut: 1,
@@ -1862,10 +1862,10 @@ export const data = {
         },
         "LVA": {
             statut: 4,
-            notes: `Raimonds Vejonis est élu président de la République pour un mandat de quatre ans. C'est le premier chef d'État vert de l'Union européenne, un an avant l'élection de l'autrichien Alexandre Van der Bellen.`,
+            notes: `Élu président de la République pour un mandat de quatre ans, de juillet 2015 à juillet 2019. Raimonds Vējonis est le premier chef d’État écologiste dans le monde.`,
             split: true,
             statut2: 3,
-            notes2: `L'Union des Verts et des Agriculteurs (ZZS) revient au gouvernement dans celui de la première femme cheffe de gouvernement lettone :  Laimdota Straujuma. Raimonds Vējonis y est ministre de la Défense, et conserve son poste jusqu'à l'élection présidentielle de 2015.  Les Verts étaient présents dans la plupart des gouvernements lettons du XXIe siècle, jusqu'à la formation actuelle - une coalition de droite et de centre-droit.`,
+            notes2: `L’Union des verts et des agriculteurs (ZZS) revient au pouvoir, dans le gouvernement Laimdota Straujuma, première femme cheffe de gouvernement de ce pays. Raimonds Vējonis est ministre de la défense jusqu’à l’élection présidentielle de 2015.`,
         },
         "FIN": {
             statut: 1,
@@ -1901,23 +1901,23 @@ export const data = {
         },
         "DNK": {
             statut: 2,
-            notes: `L'année suivant le départ des Verts du gouvernement, le SF soutient toujours ce dernier, sans participation.`
+            notes: `Suite à la vente de la société publique d’énergie Dong à la banque Goldman Sachs, en février 2014, le SF quitte le gouvernement, qu’il soutient tout de même au parlement jusqu’aux élections de juin 2015.`
         },
         "LUX": {
             statut: 3,
-            notes: `Depuis leur première entrée au gouvernement en 2013, les Gréng - Verts - luxembourgeois n'ont jamais quitté le pouvoir exécutif. Ce sont d'ailleurs les mêmes écologistes qui sont nommés depuis une petite dizaine d'années. Il s'agit des trois gouvernements Bettel/Schneider - Bettel étant le premier ministre et Schneider le vice-premier ministre. François Bausch est actuellement à la Défense, la Mobilité  et la Sécurité intérieure, Carole Dieschbourg à l'Environnement, Claude Turmes à l'Énergie et l'Aménagement du territoire, Henri Kox au Logement et Sam Tanson à la Culture et à la Justice.`
+            notes: `Depuis décembre 2013, le premier ministre libéral Xavier Bettel conduit une coalition avec le parti ouvrier socialiste, le parti démocratique (centre) et les Verts. Félix Braz est ministre de la justice (remplacé par Sam Tanson en 2019), François Bausch du développement durable puis de la défense, Carole Dieschbourg de l’environnement. Claude Turmes est ministre de l’énergie et l’aménagement du territoire à partir de 2018, Henri Kox du logement et la sécurité intérieur à partir de 2019.`
         },
         "SWE": {
             statut: 3,
-            notes: `Après plusieurs années de gouvernements de droite, une coalition de gauche se forme en 2014. Le social-démocrate Stefan Löfven compose un exécutif qui intègre le parti des Verts. La porte-parole du parti Åsa Romson est vice-première ministre et ministre du Climat et de l'Environnement. Le gouvernement actuel, remanié en février 2021, compte cinq ministres écologistes.`
+            notes: `D’octobre 2014 à novembre 2021, le social-démocrate Stefán Löfven compose un exécutif qui intègre le parti des Verts. La porte-parole du parti, Åsa Romson, est vice-première ministre et ministre du climat et de l’environnement. Trois autres écologistes intègrent ensuite le gouvernement. En novembre 2021, la sociale-démocrate Magdalena Andersson prend la tête de gouvernement, mais les écologistes le quittent en désaccord avec le budget voté par la droite. Ils soutiennent le gouvernement sans y participer.`
         },
         "PRT": {
             statut: 2,
-            notes: `Entre 2015 et 2019, le parti écologiste Os Verdes, jusqu'alors dans l'opposition, soutient le gouvernement socialiste d'Antonio Costa comme l'ensemble de la gauche portugaise. Il ne participe toutefois pas au gouvernement.`
+            notes: `Entre novembre 2015 et octobre 2019, le parti écologiste Os Verdes soutient le gouvernement du socialiste d’Antonio Costa comme l’ensemble de la gauche portugaise. Allié au parti communiste au sein de la Coalition démocratique unitaire, il ne participe toutefois pas au gouvernement.`
         },
         "GRC": {
             statut: 3,
-            notes: `Giannis Tsinoris est le premier - et le seul jusqu'à présent - écologiste grec à être entré au gouvernement. Alexis Tsipras, président de la coalition de gauche radicale SYRIZA, est soutenu par les Écologistes verts en 2015. Ses deux gouvernements sont marqués par la présence de Giannis Tsinoris, sous-ministre de l'Environnement puis du Développement durable et de l'Alimentation, qui démissione en 2018.`
+            notes: `De janvier 2015 à juin 2019, le premier ministre Alexis Tsipras, président de la coalition de gauche radicale SYRIZA, est soutenu par le parti nationaliste Anel et les Verts. L’écologiste Giannis Tsinoris est sous-ministre de l’environnement puis du développement durable et de l’alimentation jusqu’en 2018.`
         },
         "AUT": {
             statut: 1,
@@ -1935,14 +1935,14 @@ export const data = {
     2016: {
         "FRA": {
             statut: 3,
-            notes: `Pourtant, lors du remaniement de 2016, la secrétaire nationale EÉLV Emmanuelle Cosse est chargée du Logement et de l'Habitat durable. Jean-Vincent Placé et Barbara Pompili, qui ont quitté le parti lors de la scission de 2015 et rejoint le Parti écologiste, sont tous deux Secrétaires d'État. Ils conserveront leurs fonctions dans le gouvernement de Bernard Cazeneuve jusqu'à la fin de la présidence de François Hollande.`,
+            notes: `Contre l’avis de son parti, la secrétaire nationale EÉLV Emmanuelle Cosse entre dans le gouvernement de Manuel Valls en février 2016, comme ministre logement et de l’habitat durable. Jean-Vincent Placé devient secrétaire d’État à la réforme de l’État et à la simplification et Barbara Pompili secrétaire d’État chargée de la biodiversité jusqu’en 2017. Tous trois participent à l’éphémère parti écologiste.`,
         },
         "LVA": {
             statut: 4,
-            notes: `Raimonds Vejonis est élu président de la République pour un mandat de quatre ans. C'est le premier chef d'État vert de l'Union européenne, un an avant l'élection de l'autrichien Alexandre Van der Bellen.`,
+            notes: `Élu président de la République pour un mandat de quatre ans, de juillet 2015 à juillet 2019. Raimonds Vējonis est le premier chef d’État écologiste dans le monde.`,
             split: true,
             statut2: 3,
-            notes2: `L'Union des Verts et des Agriculteurs (ZZS) revient au gouvernement dans celui de la première femme cheffe de gouvernement lettone :  Laimdota Straujuma. Raimonds Vējonis y est ministre de la Défense, et conserve son poste jusqu'à l'élection présidentielle de 2015.  Les Verts étaient présents dans la plupart des gouvernements lettons du XXIe siècle, jusqu'à la formation actuelle - une coalition de droite et de centre-droit.`,
+            notes2: `L’Union des verts et des agriculteurs (ZZS) revient au pouvoir, dans le gouvernement Laimdota Straujuma, première femme cheffe de gouvernement de ce pays. Raimonds Vējonis est ministre de la défense jusqu’à l’élection présidentielle de 2015.`,
         },
         "FIN": {
             statut: 1,
@@ -1982,27 +1982,27 @@ export const data = {
         },
         "LUX": {
             statut: 3,
-            notes: `Depuis leur première entrée au gouvernement en 2013, les Gréng - Verts - luxembourgeois n'ont jamais quitté le pouvoir exécutif. Ce sont d'ailleurs les mêmes écologistes qui sont nommés depuis une petite dizaine d'années. Il s'agit des trois gouvernements Bettel/Schneider - Bettel étant le premier ministre et Schneider le vice-premier ministre. François Bausch est actuellement à la Défense, la Mobilité  et la Sécurité intérieure, Carole Dieschbourg à l'Environnement, Claude Turmes à l'Énergie et l'Aménagement du territoire, Henri Kox au Logement et Sam Tanson à la Culture et à la Justice.`
+            notes: `Depuis décembre 2013, le premier ministre libéral Xavier Bettel conduit une coalition avec le parti ouvrier socialiste, le parti démocratique (centre) et les Verts. Félix Braz est ministre de la justice (remplacé par Sam Tanson en 2019), François Bausch du développement durable puis de la défense, Carole Dieschbourg de l’environnement. Claude Turmes est ministre de l’énergie et l’aménagement du territoire à partir de 2018, Henri Kox du logement et la sécurité intérieur à partir de 2019.`
         },
         "SWE": {
             statut: 3,
-            notes: `Après plusieurs années de gouvernements de droite, une coalition de gauche se forme en 2014. Le social-démocrate Stefan Löfven compose un exécutif qui intègre le parti des Verts. La porte-parole du parti Åsa Romson est vice-première ministre et ministre du Climat et de l'Environnement. Le gouvernement actuel, remanié en février 2021, compte cinq ministres écologistes.`
+            notes: `D’octobre 2014 à novembre 2021, le social-démocrate Stefán Löfven compose un exécutif qui intègre le parti des Verts. La porte-parole du parti, Åsa Romson, est vice-première ministre et ministre du climat et de l’environnement. Trois autres écologistes intègrent ensuite le gouvernement. En novembre 2021, la sociale-démocrate Magdalena Andersson prend la tête de gouvernement, mais les écologistes le quittent en désaccord avec le budget voté par la droite. Ils soutiennent le gouvernement sans y participer.`
         },
         "PRT": {
             statut: 2,
-            notes: `Entre 2015 et 2019, le parti écologiste Os Verdes, jusqu'alors dans l'opposition, soutient le gouvernement socialiste d'Antonio Costa comme l'ensemble de la gauche portugaise. Il ne participe toutefois pas au gouvernement.`
+            notes: `Entre novembre 2015 et octobre 2019, le parti écologiste Os Verdes soutient le gouvernement du socialiste d’Antonio Costa comme l’ensemble de la gauche portugaise. Allié au parti communiste au sein de la Coalition démocratique unitaire, il ne participe toutefois pas au gouvernement.`
         },
         "GRC": {
             statut: 3,
-            notes: `Giannis Tsinoris est le premier - et le seul jusqu'à présent - écologiste grec à être entré au gouvernement. Alexis Tsipras, président de la coalition de gauche radicale SYRIZA, est soutenu par les Écologistes verts en 2015. Ses deux gouvernements sont marqués par la présence de Giannis Tsinoris, sous-ministre de l'Environnement puis du Développement durable et de l'Alimentation, qui démissione en 2018.`
+            notes: `De janvier 2015 à juin 2019, le premier ministre Alexis Tsipras, président de la coalition de gauche radicale SYRIZA, est soutenu par le parti nationaliste Anel et les Verts. L’écologiste Giannis Tsinoris est sous-ministre de l’environnement puis du développement durable et de l’alimentation jusqu’en 2018.`
         },
         "AUT": {
             statut: 4,
-            notes: `Alexandre Van der Bellen : le candidat des Verts est élu à la présidence de la République pour un mandat de six ans.`
+            notes: `Depuis le 26 janvier 2017, le candidat des Verts Alexandre Van der Bellen est président de la République d’Autriche.`
         },
         "LTU": {
             statut: 3,
-            notes: `En 2012, l'Uniondes paysans lituaniens décide de se renommer "Union des Paysans et des Verts lituaniens" (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. Dans le gouvernement de Saulius Skvernelis, de centre-gauche, LVŽS s'est vu attribuer plusieurs portefeuilles - font celui de l'Environnement.`
+            notes: `En 2012, l’Union des paysans lituaniens décide de se renommer « Union des Paysans et des Verts lituaniens » (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. D’octobre 2016 à décembre 2020, le LVŽS se voit attribuer plusieurs portefeuilles – dont celui de l’environnement – dans le gouvernement de centre-gauche dirigé par l’indépendant Saulius Skvernelis.`
         },
         "MNE": {
             statut: 1,
@@ -2012,17 +2012,17 @@ export const data = {
     2017: {
         "FRA": {
             statut: 3,
-            notes: `Pourtant, lors du remaniement de 2016, la secrétaire nationale EÉLV Emmanuelle Cosse est chargée du Logement et de l'Habitat durable. Jean-Vincent Placé et Barbara Pompili, qui ont quitté le parti lors de la scission de 2015 et rejoint le Parti écologiste, sont tous deux Secrétaires d'État. Ils conserveront leurs fonctions dans le gouvernement de Bernard Cazeneuve jusqu'à la fin de la présidence de François Hollande.`,
+            notes: `Contre l’avis de son parti, la secrétaire nationale EÉLV Emmanuelle Cosse entre dans le gouvernement de Manuel Valls en février 2016, comme ministre logement et de l’habitat durable. Jean-Vincent Placé devient secrétaire d’État à la réforme de l’État et à la simplification et Barbara Pompili secrétaire d’État chargée de la biodiversité jusqu’en 2017. Tous trois participent à l’éphémère parti écologiste.`,
             transition: true,
             statut2: 3,
-            notes2: `Au début du quinquennat d'Emmanuel Macron, Nicolas Hulot accepte le portefeuille de ministre de la Transition écologique et solidaire, et est nommé ministre d'État. Sans étiquette, il défend des idées liées à la protection de l'environnement.`
+            notes2: `Au début du quinquennat d’Emmanuel Macron, en mai 2017, Nicolas Hulot est nommé ministre d’État, ministre de la transition écologique et solidaire, en tant que personnalité écologiste, sans le soutien d’un parti. Il démissionne en septembre 2018.`
         },
         "LVA": {
             statut: 4,
-            notes: `Raimonds Vejonis est élu président de la République pour un mandat de quatre ans. C'est le premier chef d'État vert de l'Union européenne, un an avant l'élection de l'autrichien Alexandre Van der Bellen.`,
+            notes: `Élu président de la République pour un mandat de quatre ans, de juillet 2015 à juillet 2019. Raimonds Vējonis est le premier chef d’État écologiste dans le monde.`,
             split: true,
             statut2: 3,
-            notes2: `L'Union des Verts et des Agriculteurs (ZZS) revient au gouvernement dans celui de la première femme cheffe de gouvernement lettone :  Laimdota Straujuma. Raimonds Vējonis y est ministre de la Défense, et conserve son poste jusqu'à l'élection présidentielle de 2015.  Les Verts étaient présents dans la plupart des gouvernements lettons du XXIe siècle, jusqu'à la formation actuelle - une coalition de droite et de centre-droit.`,
+            notes2: `L’Union des verts et des agriculteurs (ZZS) revient au pouvoir, dans le gouvernement Laimdota Straujuma, première femme cheffe de gouvernement de ce pays. Raimonds Vējonis est ministre de la défense jusqu’à l’élection présidentielle de 2015.`,
         },
         "FIN": {
             statut: 1,
@@ -2054,7 +2054,7 @@ export const data = {
         },
         "ISL": {
             statut: 3,
-            notes: `En 2017, l'ancienne ministre de l'Éducation et présidente du parti écologiste est appelée à former un gouvernement de coalition avec la droite - le parti de l'Indépendance et celui du Progrès. Le gouvernement de Katrín Jakobsdottir ne compte que deux autres ministres verts, Svandís Svavarsdóttir à la Santé et Guðmundur Ingi Guðbrandsson à l'Environnement.`
+            notes: `Depuis octobre 2017, la cheffe du Mouvement Vert et de Gauche, Katrín Jakobsdottir, est première ministre d’Islande. Elle dirige une coalition avec le centre et la droite (parti de l’Indépendance et parti du Progrès). Le gouvernement compte deux autres ministres « rouges et verts », Svandís Svavarsdóttir à la santé (puis à la pêche depuis novembre 2021) et Guðmundur Ingi Guðbrandsson à l’environnement (puis aux affaires sociales).`
         },
         "DNK": {
             statut: 1,
@@ -2062,27 +2062,27 @@ export const data = {
         },
         "LUX": {
             statut: 3,
-            notes: `Depuis leur première entrée au gouvernement en 2013, les Gréng - Verts - luxembourgeois n'ont jamais quitté le pouvoir exécutif. Ce sont d'ailleurs les mêmes écologistes qui sont nommés depuis une petite dizaine d'années. Il s'agit des trois gouvernements Bettel/Schneider - Bettel étant le premier ministre et Schneider le vice-premier ministre. François Bausch est actuellement à la Défense, la Mobilité  et la Sécurité intérieure, Carole Dieschbourg à l'Environnement, Claude Turmes à l'Énergie et l'Aménagement du territoire, Henri Kox au Logement et Sam Tanson à la Culture et à la Justice.`
+            notes: `Depuis décembre 2013, le premier ministre libéral Xavier Bettel conduit une coalition avec le parti ouvrier socialiste, le parti démocratique (centre) et les Verts. Félix Braz est ministre de la justice (remplacé par Sam Tanson en 2019), François Bausch du développement durable puis de la défense, Carole Dieschbourg de l’environnement. Claude Turmes est ministre de l’énergie et l’aménagement du territoire à partir de 2018, Henri Kox du logement et la sécurité intérieur à partir de 2019.`
         },
         "SWE": {
             statut: 3,
-            notes: `Après plusieurs années de gouvernements de droite, une coalition de gauche se forme en 2014. Le social-démocrate Stefan Löfven compose un exécutif qui intègre le parti des Verts. La porte-parole du parti Åsa Romson est vice-première ministre et ministre du Climat et de l'Environnement. Le gouvernement actuel, remanié en février 2021, compte cinq ministres écologistes.`
+            notes: `D’octobre 2014 à novembre 2021, le social-démocrate Stefán Löfven compose un exécutif qui intègre le parti des Verts. La porte-parole du parti, Åsa Romson, est vice-première ministre et ministre du climat et de l’environnement. Trois autres écologistes intègrent ensuite le gouvernement. En novembre 2021, la sociale-démocrate Magdalena Andersson prend la tête de gouvernement, mais les écologistes le quittent en désaccord avec le budget voté par la droite. Ils soutiennent le gouvernement sans y participer.`
         },
         "PRT": {
             statut: 2,
-            notes: `Entre 2015 et 2019, le parti écologiste Os Verdes, jusqu'alors dans l'opposition, soutient le gouvernement socialiste d'Antonio Costa comme l'ensemble de la gauche portugaise. Il ne participe toutefois pas au gouvernement.`
+            notes: `Entre novembre 2015 et octobre 2019, le parti écologiste Os Verdes soutient le gouvernement du socialiste d’Antonio Costa comme l’ensemble de la gauche portugaise. Allié au parti communiste au sein de la Coalition démocratique unitaire, il ne participe toutefois pas au gouvernement.`
         },
         "GRC": {
             statut: 3,
-            notes: `Giannis Tsinoris est le premier - et le seul jusqu'à présent - écologiste grec à être entré au gouvernement. Alexis Tsipras, président de la coalition de gauche radicale SYRIZA, est soutenu par les Écologistes verts en 2015. Ses deux gouvernements sont marqués par la présence de Giannis Tsinoris, sous-ministre de l'Environnement puis du Développement durable et de l'Alimentation, qui démissione en 2018.`
+            notes: `De janvier 2015 à juin 2019, le premier ministre Alexis Tsipras, président de la coalition de gauche radicale SYRIZA, est soutenu par le parti nationaliste Anel et les Verts. L’écologiste Giannis Tsinoris est sous-ministre de l’environnement puis du développement durable et de l’alimentation jusqu’en 2018.`
         },
         "AUT": {
             statut: 4,
-            notes: `Alexandre Van der Bellen : le candidat des Verts est élu à la présidence de la République pour un mandat de six ans.`
+            notes: `Depuis le 26 janvier 2017, le candidat des Verts Alexandre Van der Bellen est président de la République d’Autriche.`
         },
         "LTU": {
             statut: 3,
-            notes: `En 2012, l'Uniondes paysans lituaniens décide de se renommer "Union des Paysans et des Verts lituaniens" (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. Dans le gouvernement de Saulius Skvernelis, de centre-gauche, LVŽS s'est vu attribuer plusieurs portefeuilles - font celui de l'Environnement.`
+            notes: `En 2012, l’Union des paysans lituaniens décide de se renommer « Union des Paysans et des Verts lituaniens » (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. D’octobre 2016 à décembre 2020, le LVŽS se voit attribuer plusieurs portefeuilles – dont celui de l’environnement – dans le gouvernement de centre-gauche dirigé par l’indépendant Saulius Skvernelis.`
         },
         "MNE": {
             statut: 1,
@@ -2092,14 +2092,14 @@ export const data = {
     2018: {
         "FRA": {
             statut: 3,
-            notes: `Au début du quinquennat d'Emmanuel Macron, Nicolas Hulot accepte le portefeuille de ministre de la Transition écologique et solidaire, et est nommé ministre d'État. Sans étiquette, il défend des idées liées à la protection de l'environnement.`
+            notes: `Au début du quinquennat d’Emmanuel Macron, en mai 2017, Nicolas Hulot est nommé ministre d’État, ministre de la transition écologique et solidaire, en tant que personnalité écologiste, sans le soutien d’un parti. Il démissionne en septembre 2018.`
         },
         "LVA": {
             statut: 4,
-            notes: `Raimonds Vejonis est élu président de la République pour un mandat de quatre ans. C'est le premier chef d'État vert de l'Union européenne, un an avant l'élection de l'autrichien Alexandre Van der Bellen.`,
+            notes: `Élu président de la République pour un mandat de quatre ans, de juillet 2015 à juillet 2019. Raimonds Vējonis est le premier chef d’État écologiste dans le monde.`,
             split: true,
             statut2: 3,
-            notes2: `L'Union des Verts et des Agriculteurs (ZZS) revient au gouvernement dans celui de la première femme cheffe de gouvernement lettone :  Laimdota Straujuma. Raimonds Vējonis y est ministre de la Défense, et conserve son poste jusqu'à l'élection présidentielle de 2015.  Les Verts étaient présents dans la plupart des gouvernements lettons du XXIe siècle, jusqu'à la formation actuelle - une coalition de droite et de centre-droit.`,
+            notes2: `L’Union des verts et des agriculteurs (ZZS) revient au pouvoir, dans le gouvernement Laimdota Straujuma, première femme cheffe de gouvernement de ce pays. Raimonds Vējonis est ministre de la défense jusqu’à l’élection présidentielle de 2015.`,
         },
         "FIN": {
             statut: 1,
@@ -2131,7 +2131,7 @@ export const data = {
         },
         "ISL": {
             statut: 3,
-            notes: `En 2017, l'ancienne ministre de l'Éducation et présidente du parti écologiste est appelée à former un gouvernement de coalition avec la droite - le parti de l'Indépendance et celui du Progrès. Le gouvernement de Katrín Jakobsdottir ne compte que deux autres ministres verts, Svandís Svavarsdóttir à la Santé et Guðmundur Ingi Guðbrandsson à l'Environnement.`
+            notes: `Depuis octobre 2017, la cheffe du Mouvement Vert et de Gauche, Katrín Jakobsdottir, est première ministre d’Islande. Elle dirige une coalition avec le centre et la droite (parti de l’Indépendance et parti du Progrès). Le gouvernement compte deux autres ministres « rouges et verts », Svandís Svavarsdóttir à la santé (puis à la pêche depuis novembre 2021) et Guðmundur Ingi Guðbrandsson à l’environnement (puis aux affaires sociales).`
         },
         "DNK": {
             statut: 1,
@@ -2139,27 +2139,27 @@ export const data = {
         },
         "LUX": {
             statut: 3,
-            notes: `Depuis leur première entrée au gouvernement en 2013, les Gréng - Verts - luxembourgeois n'ont jamais quitté le pouvoir exécutif. Ce sont d'ailleurs les mêmes écologistes qui sont nommés depuis une petite dizaine d'années. Il s'agit des trois gouvernements Bettel/Schneider - Bettel étant le premier ministre et Schneider le vice-premier ministre. François Bausch est actuellement à la Défense, la Mobilité  et la Sécurité intérieure, Carole Dieschbourg à l'Environnement, Claude Turmes à l'Énergie et l'Aménagement du territoire, Henri Kox au Logement et Sam Tanson à la Culture et à la Justice.`
+            notes: `Depuis décembre 2013, le premier ministre libéral Xavier Bettel conduit une coalition avec le parti ouvrier socialiste, le parti démocratique (centre) et les Verts. Félix Braz est ministre de la justice (remplacé par Sam Tanson en 2019), François Bausch du développement durable puis de la défense, Carole Dieschbourg de l’environnement. Claude Turmes est ministre de l’énergie et l’aménagement du territoire à partir de 2018, Henri Kox du logement et la sécurité intérieur à partir de 2019.`
         },
         "SWE": {
             statut: 3,
-            notes: `Après plusieurs années de gouvernements de droite, une coalition de gauche se forme en 2014. Le social-démocrate Stefan Löfven compose un exécutif qui intègre le parti des Verts. La porte-parole du parti Åsa Romson est vice-première ministre et ministre du Climat et de l'Environnement. Le gouvernement actuel, remanié en février 2021, compte cinq ministres écologistes.`
+            notes: `D’octobre 2014 à novembre 2021, le social-démocrate Stefán Löfven compose un exécutif qui intègre le parti des Verts. La porte-parole du parti, Åsa Romson, est vice-première ministre et ministre du climat et de l’environnement. Trois autres écologistes intègrent ensuite le gouvernement. En novembre 2021, la sociale-démocrate Magdalena Andersson prend la tête de gouvernement, mais les écologistes le quittent en désaccord avec le budget voté par la droite. Ils soutiennent le gouvernement sans y participer.`
         },
         "PRT": {
             statut: 2,
-            notes: `Entre 2015 et 2019, le parti écologiste Os Verdes, jusqu'alors dans l'opposition, soutient le gouvernement socialiste d'Antonio Costa comme l'ensemble de la gauche portugaise. Il ne participe toutefois pas au gouvernement.`
+            notes: `Entre novembre 2015 et octobre 2019, le parti écologiste Os Verdes soutient le gouvernement du socialiste d’Antonio Costa comme l’ensemble de la gauche portugaise. Allié au parti communiste au sein de la Coalition démocratique unitaire, il ne participe toutefois pas au gouvernement.`
         },
         "GRC": {
             statut: 3,
-            notes: `Giannis Tsinoris est le premier - et le seul jusqu'à présent - écologiste grec à être entré au gouvernement. Alexis Tsipras, président de la coalition de gauche radicale SYRIZA, est soutenu par les Écologistes verts en 2015. Ses deux gouvernements sont marqués par la présence de Giannis Tsinoris, sous-ministre de l'Environnement puis du Développement durable et de l'Alimentation, qui démissione en 2018.`
+            notes: `De janvier 2015 à juin 2019, le premier ministre Alexis Tsipras, président de la coalition de gauche radicale SYRIZA, est soutenu par le parti nationaliste Anel et les Verts. L’écologiste Giannis Tsinoris est sous-ministre de l’environnement puis du développement durable et de l’alimentation jusqu’en 2018.`
         },
         "AUT": {
             statut: 4,
-            notes: `Alexandre Van der Bellen : le candidat des Verts est élu à la présidence de la République pour un mandat de six ans.`
+            notes: `Depuis le 26 janvier 2017, le candidat des Verts Alexandre Van der Bellen est président de la République d’Autriche.`
         },
         "LTU": {
             statut: 3,
-            notes: `En 2012, l'Uniondes paysans lituaniens décide de se renommer "Union des Paysans et des Verts lituaniens" (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. Dans le gouvernement de Saulius Skvernelis, de centre-gauche, LVŽS s'est vu attribuer plusieurs portefeuilles - font celui de l'Environnement.`
+            notes: `En 2012, l’Union des paysans lituaniens décide de se renommer « Union des Paysans et des Verts lituaniens » (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. D’octobre 2016 à décembre 2020, le LVŽS se voit attribuer plusieurs portefeuilles – dont celui de l’environnement – dans le gouvernement de centre-gauche dirigé par l’indépendant Saulius Skvernelis.`
         },
         "MNE": {
             statut: 1,
@@ -2173,14 +2173,14 @@ export const data = {
         },
         "LVA": {
             statut: 4,
-            notes: `Raimonds Vejonis est élu président de la République pour un mandat de quatre ans. C'est le premier chef d'État vert de l'Union européenne, un an avant l'élection de l'autrichien Alexandre Van der Bellen.`,
+            notes: `Élu président de la République pour un mandat de quatre ans, de juillet 2015 à juillet 2019. Raimonds Vējonis est le premier chef d’État écologiste dans le monde.`,
             split: true,
             statut2: 3,
-            notes2: `L'Union des Verts et des Agriculteurs (ZZS) revient au gouvernement dans celui de la première femme cheffe de gouvernement lettone :  Laimdota Straujuma. Raimonds Vējonis y est ministre de la Défense, et conserve son poste jusqu'à l'élection présidentielle de 2015.  Les Verts étaient présents dans la plupart des gouvernements lettons du XXIe siècle, jusqu'à la formation actuelle - une coalition de droite et de centre-droit.`,
+            notes2: `L’Union des verts et des agriculteurs (ZZS) revient au pouvoir, dans le gouvernement Laimdota Straujuma, première femme cheffe de gouvernement de ce pays. Raimonds Vējonis est ministre de la défense jusqu’à l’élection présidentielle de 2015.`,
         },
         "FIN": {
             statut: 3,
-            notes: `Antti Rinne, président du parti social-démocrate, forme une coalition avec quatre partis du centre et de la gauche du paysage politique, dont la Ligue verte. Suite à sa démission fin 2019, l'actuelle première ministre Sanna Marin conserve les trois ministres écologistes en poste. On y retrouve Pekka Haavisto aux Affaires étrangères, Krista Mikkonen à l'Environnement et Maria Ohisalo à l'Intérieur. En Finlande, les Verts sont parvenus aux ministères régaliens.`
+            notes: `Président du parti social-démocrate, Antti Rinne, forme en juin 2019 une coalition avec quatre partis du centre et de la gauche, dont la Ligue verte. Suite à sa démission fin 2019, l’actuelle première ministre Sanna Marin conserve les trois ministres écologistes : Pekka Haavisto aux affaires étrangères, Maria Ohisalo à l’intérieur et Krista Mikkonen à l’environnement et au climat.`
         },
         "ITA": {
             statut: 1,
@@ -2208,23 +2208,23 @@ export const data = {
         },
         "ISL": {
             statut: 3,
-            notes: `En 2017, l'ancienne ministre de l'Éducation et présidente du parti écologiste est appelée à former un gouvernement de coalition avec la droite - le parti de l'Indépendance et celui du Progrès. Le gouvernement de Katrín Jakobsdottir ne compte que deux autres ministres verts, Svandís Svavarsdóttir à la Santé et Guðmundur Ingi Guðbrandsson à l'Environnement.`
+            notes: `Depuis octobre 2017, la cheffe du Mouvement Vert et de Gauche, Katrín Jakobsdottir, est première ministre d’Islande. Elle dirige une coalition avec le centre et la droite (parti de l’Indépendance et parti du Progrès). Le gouvernement compte deux autres ministres « rouges et verts », Svandís Svavarsdóttir à la santé (puis à la pêche depuis novembre 2021) et Guðmundur Ingi Guðbrandsson à l’environnement (puis aux affaires sociales).`
         },
         "DNK": {
             statut: 2,
-            notes: `En juin 2019, le gouvernement Mette-Fredericksen bénéfie du soutien - sans participation - du parti populaire socialiste. Les éco-socialistes font partie de la majorité au Parlement danois, le Folketing. Un autre parti écologiste, Alternative, dipose d'un unique siège au sein de la 69e législature de la chambre législative.`
+            notes: `Depuis juin 2019, le gouvernement de la sociale-démocrate Mette-Fredericksen bénéficie du soutien – sans participation – du parti populaire socialiste. Les écosocialistes font partie de la majorité au Parlement danois, le Folketing. Un autre parti écologiste, Alternative, dispose d’un unique siège.`
         },
         "LUX": {
             statut: 3,
-            notes: `Depuis leur première entrée au gouvernement en 2013, les Gréng - Verts - luxembourgeois n'ont jamais quitté le pouvoir exécutif. Ce sont d'ailleurs les mêmes écologistes qui sont nommés depuis une petite dizaine d'années. Il s'agit des trois gouvernements Bettel/Schneider - Bettel étant le premier ministre et Schneider le vice-premier ministre. François Bausch est actuellement à la Défense, la Mobilité  et la Sécurité intérieure, Carole Dieschbourg à l'Environnement, Claude Turmes à l'Énergie et l'Aménagement du territoire, Henri Kox au Logement et Sam Tanson à la Culture et à la Justice.`
+            notes: `Depuis décembre 2013, le premier ministre libéral Xavier Bettel conduit une coalition avec le parti ouvrier socialiste, le parti démocratique (centre) et les Verts. Félix Braz est ministre de la justice (remplacé par Sam Tanson en 2019), François Bausch du développement durable puis de la défense, Carole Dieschbourg de l’environnement. Claude Turmes est ministre de l’énergie et l’aménagement du territoire à partir de 2018, Henri Kox du logement et la sécurité intérieur à partir de 2019.`
         },
         "SWE": {
             statut: 3,
-            notes: `Après plusieurs années de gouvernements de droite, une coalition de gauche se forme en 2014. Le social-démocrate Stefan Löfven compose un exécutif qui intègre le parti des Verts. La porte-parole du parti Åsa Romson est vice-première ministre et ministre du Climat et de l'Environnement. Le gouvernement actuel, remanié en février 2021, compte cinq ministres écologistes.`
+            notes: `D’octobre 2014 à novembre 2021, le social-démocrate Stefán Löfven compose un exécutif qui intègre le parti des Verts. La porte-parole du parti, Åsa Romson, est vice-première ministre et ministre du climat et de l’environnement. Trois autres écologistes intègrent ensuite le gouvernement. En novembre 2021, la sociale-démocrate Magdalena Andersson prend la tête de gouvernement, mais les écologistes le quittent en désaccord avec le budget voté par la droite. Ils soutiennent le gouvernement sans y participer.`
         },
         "PRT": {
             statut: 2,
-            notes: `Entre 2015 et 2019, le parti écologiste Os Verdes, jusqu'alors dans l'opposition, soutient le gouvernement socialiste d'Antonio Costa comme l'ensemble de la gauche portugaise. Il ne participe toutefois pas au gouvernement.`
+            notes: `Entre novembre 2015 et octobre 2019, le parti écologiste Os Verdes soutient le gouvernement du socialiste d’Antonio Costa comme l’ensemble de la gauche portugaise. Allié au parti communiste au sein de la Coalition démocratique unitaire, il ne participe toutefois pas au gouvernement.`
         },
         "GRC": {
             statut: 1,
@@ -2232,11 +2232,11 @@ export const data = {
         },
         "AUT": {
             statut: 4,
-            notes: `Alexandre Van der Bellen : le candidat des Verts est élu à la présidence de la République pour un mandat de six ans.`
+            notes: `Depuis le 26 janvier 2017, le candidat des Verts Alexandre Van der Bellen est président de la République d’Autriche.`
         },
         "LTU": {
             statut: 3,
-            notes: `En 2012, l'Uniondes paysans lituaniens décide de se renommer "Union des Paysans et des Verts lituaniens" (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. Dans le gouvernement de Saulius Skvernelis, de centre-gauche, LVŽS s'est vu attribuer plusieurs portefeuilles - font celui de l'Environnement.`
+            notes: `En 2012, l’Union des paysans lituaniens décide de se renommer « Union des Paysans et des Verts lituaniens » (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. D’octobre 2016 à décembre 2020, le LVŽS se voit attribuer plusieurs portefeuilles – dont celui de l’environnement – dans le gouvernement de centre-gauche dirigé par l’indépendant Saulius Skvernelis.`
         },
         "MNE": {
             statut: 1,
@@ -2254,7 +2254,7 @@ export const data = {
         },
         "FIN": {
             statut: 3,
-            notes: `Antti Rinne, président du parti social-démocrate, forme une coalition avec quatre partis du centre et de la gauche du paysage politique, dont la Ligue verte. Suite à sa démission fin 2019, l'actuelle première ministre Sanna Marin conserve les trois ministres écologistes en poste. On y retrouve Pekka Haavisto aux Affaires étrangères, Krista Mikkonen à l'Environnement et Maria Ohisalo à l'Intérieur. En Finlande, les Verts sont parvenus aux ministères régaliens.`
+            notes: `Président du parti social-démocrate, Antti Rinne, forme en juin 2019 une coalition avec quatre partis du centre et de la gauche, dont la Ligue verte. Suite à sa démission fin 2019, l’actuelle première ministre Sanna Marin conserve les trois ministres écologistes : Pekka Haavisto aux affaires étrangères, Maria Ohisalo à l’intérieur et Krista Mikkonen à l’environnement et au climat.`
         },
         "ITA": {
             statut: 1,
@@ -2266,15 +2266,15 @@ export const data = {
         },
         "BEL": {
             statut: 3,
-            notes: `La coalition "Vivaldi" au pouvoir : le nouveau premier ministre Alexander de Croo forme un gouvernement composé de sept partis belges. Ecolo et Groen sont à nouveau membres de cette alliance politique.`
+            notes: `Depuis octobre 2020, les partis Écolo et Groen participent au gouvernement du libéral flamand Alexander De Croo. Georges Gilkinet est vice-premier ministre chargé de la mobilité. Également, vice-première ministre, Petra De Sutter est chargée de la fonction publique. Zakia Khattabi est ministre du climat et de l’environnement, Tinne Van der Straeten de l’énergie. Enfin, Sarah Schiltz est secrétaire d’État à l’égalité des genres.`
         },
         "ESP": {
             statut: 2,
-            notes: `Depuis janvier 2020, la deuxième formation gouvernementale de Pedro Sánchez est à la tête de l'État espagnol. Soutenue sans participation par Más País, parti écosocialiste, la coalition de gauche comprend l'alliance Unidas Podemos - composée de Podemos, d'Izquierda Unida et de Verdes Equo. Aucun membre de ce dernier, parti écologiste espagnol, n'a toutefois de portefeuille ministériel.`
+            notes: `Depuis janvier 2020, le deuxième gouvernement de Pedro Sánchez reçoit le soutien du PSOE, du parti socialiste catalan et de l’alliance Unidas Podemos – composée de Podemos, d’Izquierda Unida et de Verdes Equo. Aucun membre de ce parti écologiste espagnol n’a toutefois de portefeuille. Le parti écosocialiste Más País soutient également ce gouvernement sans y participer.`
         },
         "IRL": {
             statut: 3,
-            notes: `L'actuelle coalition gouvernementale, formée par le Taoiseach - chef de gouvernement irlandais - Micheál Martin -, comprend Fianna Fáil, Fine Gael et les Verts. Eamon Ryan, déjà présent dans le gouvernement de 2007, est ministre des Transports. Catherine Martin est ministre du Tourisme, de la Culture, des Arts, de la Gaeltacht, des Sports et des Médias et Roderic O'Gorman ministre de l'Enfance, de l'Égalité, du Handicap, de l'Intégration et de la Jeunesse.`
+            notes: `Depuis juin 2020, la coalition gouvernementale, dirigée par Micheál Martin comprend le Fianna Fáil, Fine Gael et les Verts. Eamon Ryan est ministre des Transports. Catherine Martin est ministre du tourisme et de la culture et Roderic O’Gorman ministre de l’enfance et de la Jeunesse.`
         },
         "CZE": {
             statut: 1,
@@ -2282,19 +2282,19 @@ export const data = {
         },
         "ISL": {
             statut: 3,
-            notes: `En 2017, l'ancienne ministre de l'Éducation et présidente du parti écologiste est appelée à former un gouvernement de coalition avec la droite - le parti de l'Indépendance et celui du Progrès. Le gouvernement de Katrín Jakobsdottir ne compte que deux autres ministres verts, Svandís Svavarsdóttir à la Santé et Guðmundur Ingi Guðbrandsson à l'Environnement.`
+            notes: `Depuis octobre 2017, la cheffe du Mouvement Vert et de Gauche, Katrín Jakobsdottir, est première ministre d’Islande. Elle dirige une coalition avec le centre et la droite (parti de l’Indépendance et parti du Progrès). Le gouvernement compte deux autres ministres « rouges et verts », Svandís Svavarsdóttir à la santé (puis à la pêche depuis novembre 2021) et Guðmundur Ingi Guðbrandsson à l’environnement (puis aux affaires sociales).`
         },
         "DNK": {
             statut: 2,
-            notes: `En juin 2019, le gouvernement Mette-Fredericksen bénéfie du soutien - sans participation - du parti populaire socialiste. Les éco-socialistes font partie de la majorité au Parlement danois, le Folketing. Un autre parti écologiste, Alternative, dipose d'un unique siège au sein de la 69e législature de la chambre législative.`
+            notes: `Depuis juin 2019, le gouvernement de la sociale-démocrate Mette-Fredericksen bénéficie du soutien – sans participation – du parti populaire socialiste. Les écosocialistes font partie de la majorité au Parlement danois, le Folketing. Un autre parti écologiste, Alternative, dispose d’un unique siège.`
         },
         "LUX": {
             statut: 3,
-            notes: `Depuis leur première entrée au gouvernement en 2013, les Gréng - Verts - luxembourgeois n'ont jamais quitté le pouvoir exécutif. Ce sont d'ailleurs les mêmes écologistes qui sont nommés depuis une petite dizaine d'années. Il s'agit des trois gouvernements Bettel/Schneider - Bettel étant le premier ministre et Schneider le vice-premier ministre. François Bausch est actuellement à la Défense, la Mobilité  et la Sécurité intérieure, Carole Dieschbourg à l'Environnement, Claude Turmes à l'Énergie et l'Aménagement du territoire, Henri Kox au Logement et Sam Tanson à la Culture et à la Justice.`
+            notes: `Depuis décembre 2013, le premier ministre libéral Xavier Bettel conduit une coalition avec le parti ouvrier socialiste, le parti démocratique (centre) et les Verts. Félix Braz est ministre de la justice (remplacé par Sam Tanson en 2019), François Bausch du développement durable puis de la défense, Carole Dieschbourg de l’environnement. Claude Turmes est ministre de l’énergie et l’aménagement du territoire à partir de 2018, Henri Kox du logement et la sécurité intérieur à partir de 2019.`
         },
         "SWE": {
             statut: 3,
-            notes: `Après plusieurs années de gouvernements de droite, une coalition de gauche se forme en 2014. Le social-démocrate Stefan Löfven compose un exécutif qui intègre le parti des Verts. La porte-parole du parti Åsa Romson est vice-première ministre et ministre du Climat et de l'Environnement. Le gouvernement actuel, remanié en février 2021, compte cinq ministres écologistes.`
+            notes: `D’octobre 2014 à novembre 2021, le social-démocrate Stefán Löfven compose un exécutif qui intègre le parti des Verts. La porte-parole du parti, Åsa Romson, est vice-première ministre et ministre du climat et de l’environnement. Trois autres écologistes intègrent ensuite le gouvernement. En novembre 2021, la sociale-démocrate Magdalena Andersson prend la tête de gouvernement, mais les écologistes le quittent en désaccord avec le budget voté par la droite. Ils soutiennent le gouvernement sans y participer.`
         },
         "PRT": {
             statut: 1,
@@ -2306,18 +2306,18 @@ export const data = {
         },
         "AUT": {
             statut: 4,
-            notes: `Alexandre Van der Bellen : le candidat des Verts est élu à la présidence de la République pour un mandat de six ans.`,
+            notes: `Depuis le 26 janvier 2017, le candidat des Verts Alexandre Van der Bellen est président de la République d’Autriche.`,
             split: true,
             statut2: 3,
-            notes2: `"Protéger le climat et la planète": Die Grünen s'associent à l'ÖVP, parti populaire autrichien, pour former une coalition gouvernementale. Sous Kurz jusqu'au 11 octobre 2021, puis Schallenberg, les écologistes sont au gouvernement.`
+            notes2: `Depuis janvier 2020, les Verts participent au gouvernement dirigé par un conservateur, Sebastian Kurz jusqu’en octobre 2021, puis Alexander Schallenberg. Werner Kogler est vice-chancelier, ministre de la culture. Alma Zadic, ministre de la justice, Leonore Gewessler de l’environnement et Rudolf Anschober (puis Wolfgang Mückstein) des affaires sociales et de la santé.`
         },
         "LTU": {
             statut: 3,
-            notes: `En 2012, l'Uniondes paysans lituaniens décide de se renommer "Union des Paysans et des Verts lituaniens" (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. Dans le gouvernement de Saulius Skvernelis, de centre-gauche, LVŽS s'est vu attribuer plusieurs portefeuilles - font celui de l'Environnement.`
+            notes: `En 2012, l’Union des paysans lituaniens décide de se renommer « Union des Paysans et des Verts lituaniens » (LVŽS). Malgré les critiques du Mouvement vert, le parti se présente comme écologiste. D’octobre 2016 à décembre 2020, le LVŽS se voit attribuer plusieurs portefeuilles – dont celui de l’environnement – dans le gouvernement de centre-gauche dirigé par l’indépendant Saulius Skvernelis.`
         },
         "MNE": {
             statut: 3,
-            notes: `En décembre 2020, Dritan Abazović est nommé vice-premier ministre et ministre de la Sécurité intérieure au gouvernement. Membre de l'URA, parti social-libéral écologiste, il est affilié à la plateforme civique "En noir et blanc", qui rassemble des partis du centre et de centre-gauche.`
+            notes: `Après les élections d’août 2020, le parti aux commandes depuis 30 ans cède le pouvoir à une coalition. Le nouveau premier ministre Zdravko Krivokapić prend, en décembre 2020, Dritan Abazović comme vice-premier ministre et ministre de la sécurité intérieure. Membre de l’Action réformée unie (URA), parti social-libéral se revendiquant écologiste (membre du parti vert européen), il est affilié à la plateforme civique « En noir et blanc », qui rassemble des partis du centre et de centre-gauche.`
         },
     },
     2021: {
@@ -2331,7 +2331,7 @@ export const data = {
         },
         "FIN": {
             statut: 3,
-            notes: `Antti Rinne, président du parti social-démocrate, forme une coalition avec quatre partis du centre et de la gauche du paysage politique, dont la Ligue verte. Suite à sa démission fin 2019, l'actuelle première ministre Sanna Marin conserve les trois ministres écologistes en poste. On y retrouve Pekka Haavisto aux Affaires étrangères, Krista Mikkonen à l'Environnement et Maria Ohisalo à l'Intérieur. En Finlande, les Verts sont parvenus aux ministères régaliens.`
+            notes: `Président du parti social-démocrate, Antti Rinne, forme en juin 2019 une coalition avec quatre partis du centre et de la gauche, dont la Ligue verte. Suite à sa démission fin 2019, l’actuelle première ministre Sanna Marin conserve les trois ministres écologistes : Pekka Haavisto aux affaires étrangères, Maria Ohisalo à l’intérieur et Krista Mikkonen à l’environnement et au climat.`
         },
         "ITA": {
             statut: 1,
@@ -2342,19 +2342,19 @@ export const data = {
             notes: ``,
             transition: true,
             statut2: 3,
-            notes2: `"Die Ampelkoalition": le (probable) futur chancelier Olaf Scholz prévoit la constitution d'un gouvernement tricolore entre les Sociaux-démocrates, les Libéraux et les Verts.`
+            notes2: `Le 24 novembre 2021, les sociaux-démocrates, les libéraux et les Verts présentent un accord de coalition, qui doit être encore ratifié par chacun des partis. Les deux coresponsables des Verts sont pressentis pour entrer au gouvernement d’Olaf Scholz (SPD) : Robert Habeck deviendrait vice-chancelier à la tête d’un « super-ministère » du climat et de l’économie, Annalena Baerbock deviendrait ministre des affaires étrangères.`
         },
         "BEL": {
             statut: 3,
-            notes: `La coalition "Vivaldi" au pouvoir : le nouveau premier ministre Alexander de Croo forme un gouvernement composé de sept partis belges. Ecolo et Groen sont à nouveau membres de cette alliance politique.`
+            notes: `Depuis octobre 2020, les partis Écolo et Groen participent au gouvernement du libéral flamand Alexander De Croo. Georges Gilkinet est vice-premier ministre chargé de la mobilité. Également, vice-première ministre, Petra De Sutter est chargée de la fonction publique. Zakia Khattabi est ministre du climat et de l’environnement, Tinne Van der Straeten de l’énergie. Enfin, Sarah Schiltz est secrétaire d’État à l’égalité des genres.`
         },
         "ESP": {
             statut: 2,
-            notes: `Depuis janvier 2020, la deuxième formation gouvernementale de Pedro Sánchez est à la tête de l'État espagnol. Soutenue sans participation par Más País, parti écosocialiste, la coalition de gauche comprend l'alliance Unidas Podemos - composée de Podemos, d'Izquierda Unida et de Verdes Equo. Aucun membre de ce dernier, parti écologiste espagnol, n'a toutefois de portefeuille ministériel.`
+            notes: `Depuis janvier 2020, le deuxième gouvernement de Pedro Sánchez reçoit le soutien du PSOE, du parti socialiste catalan et de l’alliance Unidas Podemos – composée de Podemos, d’Izquierda Unida et de Verdes Equo. Aucun membre de ce parti écologiste espagnol n’a toutefois de portefeuille. Le parti écosocialiste Más País soutient également ce gouvernement sans y participer.`
         },
         "IRL": {
             statut: 3,
-            notes: `L'actuelle coalition gouvernementale, formée par le Taoiseach - chef de gouvernement irlandais - Micheál Martin -, comprend Fianna Fáil, Fine Gael et les Verts. Eamon Ryan, déjà présent dans le gouvernement de 2007, est ministre des Transports. Catherine Martin est ministre du Tourisme, de la Culture, des Arts, de la Gaeltacht, des Sports et des Médias et Roderic O'Gorman ministre de l'Enfance, de l'Égalité, du Handicap, de l'Intégration et de la Jeunesse.`
+            notes: `Depuis juin 2020, la coalition gouvernementale, dirigée par Micheál Martin comprend le Fianna Fáil, Fine Gael et les Verts. Eamon Ryan est ministre des Transports. Catherine Martin est ministre du tourisme et de la culture et Roderic O’Gorman ministre de l’enfance et de la Jeunesse.`
         },
         "CZE": {
             statut: 1,
@@ -2362,19 +2362,19 @@ export const data = {
         },
         "ISL": {
             statut: 3,
-            notes: `En 2017, l'ancienne ministre de l'Éducation et présidente du parti écologiste est appelée à former un gouvernement de coalition avec la droite - le parti de l'Indépendance et celui du Progrès. Le gouvernement de Katrín Jakobsdottir ne compte que deux autres ministres verts, Svandís Svavarsdóttir à la Santé et Guðmundur Ingi Guðbrandsson à l'Environnement.`
+            notes: `Depuis octobre 2017, la cheffe du Mouvement Vert et de Gauche, Katrín Jakobsdottir, est première ministre d’Islande. Elle dirige une coalition avec le centre et la droite (parti de l’Indépendance et parti du Progrès). Le gouvernement compte deux autres ministres « rouges et verts », Svandís Svavarsdóttir à la santé (puis à la pêche depuis novembre 2021) et Guðmundur Ingi Guðbrandsson à l’environnement (puis aux affaires sociales).`
         },
         "DNK": {
             statut: 2,
-            notes: `En juin 2019, le gouvernement Mette-Fredericksen bénéfie du soutien - sans participation - du parti populaire socialiste. Les éco-socialistes font partie de la majorité au Parlement danois, le Folketing. Un autre parti écologiste, Alternative, dipose d'un unique siège au sein de la 69e législature de la chambre législative.`
+            notes: `Depuis juin 2019, le gouvernement de la sociale-démocrate Mette-Fredericksen bénéficie du soutien – sans participation – du parti populaire socialiste. Les écosocialistes font partie de la majorité au Parlement danois, le Folketing. Un autre parti écologiste, Alternative, dispose d’un unique siège.`
         },
         "LUX": {
             statut: 3,
-            notes: `Depuis leur première entrée au gouvernement en 2013, les Gréng - Verts - luxembourgeois n'ont jamais quitté le pouvoir exécutif. Ce sont d'ailleurs les mêmes écologistes qui sont nommés depuis une petite dizaine d'années. Il s'agit des trois gouvernements Bettel/Schneider - Bettel étant le premier ministre et Schneider le vice-premier ministre. François Bausch est actuellement à la Défense, la Mobilité  et la Sécurité intérieure, Carole Dieschbourg à l'Environnement, Claude Turmes à l'Énergie et l'Aménagement du territoire, Henri Kox au Logement et Sam Tanson à la Culture et à la Justice.`
+            notes: `Depuis décembre 2013, le premier ministre libéral Xavier Bettel conduit une coalition avec le parti ouvrier socialiste, le parti démocratique (centre) et les Verts. Félix Braz est ministre de la justice (remplacé par Sam Tanson en 2019), François Bausch du développement durable puis de la défense, Carole Dieschbourg de l’environnement. Claude Turmes est ministre de l’énergie et l’aménagement du territoire à partir de 2018, Henri Kox du logement et la sécurité intérieur à partir de 2019.`
         },
         "SWE": {
             statut: 3,
-            notes: `Après plusieurs années de gouvernements de droite, une coalition de gauche se forme en 2014. Le social-démocrate Stefan Löfven compose un exécutif qui intègre le parti des Verts. La porte-parole du parti Åsa Romson est vice-première ministre et ministre du Climat et de l'Environnement. Le gouvernement actuel, remanié en février 2021, compte cinq ministres écologistes.`
+            notes: `D’octobre 2014 à novembre 2021, le social-démocrate Stefán Löfven compose un exécutif qui intègre le parti des Verts. La porte-parole du parti, Åsa Romson, est vice-première ministre et ministre du climat et de l’environnement. Trois autres écologistes intègrent ensuite le gouvernement. En novembre 2021, la sociale-démocrate Magdalena Andersson prend la tête de gouvernement, mais les écologistes le quittent en désaccord avec le budget voté par la droite. Ils soutiennent le gouvernement sans y participer.`
         },
         "PRT": {
             statut: 1,
@@ -2386,10 +2386,10 @@ export const data = {
         },
         "AUT": {
             statut: 4,
-            notes: `Alexandre Van der Bellen : le candidat des Verts est élu à la présidence de la République pour un mandat de six ans.`,
+            notes: `Depuis le 26 janvier 2017, le candidat des Verts Alexandre Van der Bellen est président de la République d’Autriche.`,
             split: true,
             statut2: 3,
-            notes2: `"Protéger le climat et la planète": Die Grünen s'associent à l'ÖVP, parti populaire autrichien, pour former une coalition gouvernementale. Sous Kurz jusqu'au 11 octobre 2021, puis Schallenberg, les écologistes sont au gouvernement.`
+            notes2: `Depuis janvier 2020, les Verts participent au gouvernement dirigé par un conservateur, Sebastian Kurz jusqu’en octobre 2021, puis Alexander Schallenberg. Werner Kogler est vice-chancelier, ministre de la culture. Alma Zadic, ministre de la justice, Leonore Gewessler de l’environnement et Rudolf Anschober (puis Wolfgang Mückstein) des affaires sociales et de la santé.`
         },
         "LTU": {
             statut: 1,
@@ -2397,7 +2397,7 @@ export const data = {
         },
         "MNE": {
             statut: 3,
-            notes: `En décembre 2020, Dritan Abazović est nommé vice-premier ministre et ministre de la Sécurité intérieure au gouvernement. Membre de l'URA, parti social-libéral écologiste, il est affilié à la plateforme civique "En noir et blanc", qui rassemble des partis du centre et de centre-gauche.`
+            notes: `Après les élections d’août 2020, le parti aux commandes depuis 30 ans cède le pouvoir à une coalition. Le nouveau premier ministre Zdravko Krivokapić prend, en décembre 2020, Dritan Abazović comme vice-premier ministre et ministre de la sécurité intérieure. Membre de l’Action réformée unie (URA), parti social-libéral se revendiquant écologiste (membre du parti vert européen), il est affilié à la plateforme civique « En noir et blanc », qui rassemble des partis du centre et de centre-gauche.`
         },
     },
 }
