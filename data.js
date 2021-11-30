@@ -1934,7 +1934,7 @@ export const data = {
     },
     2016: {
         "FRA": {
-            statut: 3,
+            statut: 2,
             notes: `Contre l’avis de son parti, la secrétaire nationale EÉLV Emmanuelle Cosse entre dans le gouvernement de Manuel Valls en février 2016, comme ministre logement et de l’habitat durable. Jean-Vincent Placé devient secrétaire d’État à la réforme de l’État et à la simplification et Barbara Pompili secrétaire d’État chargée de la biodiversité jusqu’en 2017. Tous trois participent à l’éphémère parti écologiste.`,
         },
         "LVA": {

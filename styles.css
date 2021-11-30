@@ -131,7 +131,7 @@ p.title {
 
 .case .notes p {
     position: absolute;
-    max-width: 400px;
+    max-width: 460px;
     width: max-content;
     transform: translate(2.6em, -0.6em);
     pointer-events: none;
