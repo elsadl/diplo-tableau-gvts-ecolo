@@ -10,7 +10,7 @@
     box-sizing: border-box;
 }
 
-p {
+p, body {
     margin: 0;
     padding: 0;
 }
@@ -131,7 +131,7 @@ p.title {
 
 .case .notes p {
     position: absolute;
-    max-width: 360px;
+    max-width: 400px;
     width: max-content;
     transform: translate(2.6em, -0.6em);
     pointer-events: none;
@@ -146,7 +146,7 @@ p.title {
     background-color: white !important;
     border: 1px solid black;
     padding: 0.5em;
-    font-size: 0.9em;
+    font-size: 1em;
     z-index: 100;
 }
 

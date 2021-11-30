@@ -175,5 +175,7 @@ const scaleTableau = () => {
     const ratio = window.innerWidth / tableauWidth;
     scaleFactor = Math.min(ratio, 1);
     tableau.style.transform = `scale(${scaleFactor})`;
+    document.body.style.width = tableau.getBoundingClientRect().width + "px";
+    document.body.style.height = tableau.getBoundingClientRect().height + 5 + "px";
   }
 };
