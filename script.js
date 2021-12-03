@@ -10,7 +10,6 @@ const statutClasses = ["null", "un", "deux", "trois", "quatre"];
 
 const tableau = document.getElementById("tableau");
 
-let scaleFactor = 1;
 let tableauWidth;
 
 const init = () => {
@@ -171,11 +170,9 @@ const fixPositionTooltips = () => {
 };
 
 const scaleTableau = () => {
-  if (tableauWidth > window.innerWidth || scaleFactor != 1) {
     const ratio = window.innerWidth / tableauWidth;
-    scaleFactor = Math.min(ratio, 1);
-    tableau.style.transform = `scale(${scaleFactor})`;
+    tableau.style.transform = `scale(${ratio})`;
     document.body.style.width = tableau.getBoundingClientRect().width + "px";
     document.body.style.height = tableau.getBoundingClientRect().height + 5 + "px";
-  }
+    tableau.style.left = (window.innerWidth - tableau.getBoundingClientRect().width)/2 + "px";
 };

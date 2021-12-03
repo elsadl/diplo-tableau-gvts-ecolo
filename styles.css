@@ -26,6 +26,10 @@ p, body {
     align-items: center;
     transform-origin: top left;
     display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: 20px;
 }
 
 p.title {
@@ -146,7 +150,6 @@ p.title {
     background-color: white !important;
     border: 1px solid black;
     padding: 0.5em;
-    font-size: 1em;
     z-index: 100;
 }
 
